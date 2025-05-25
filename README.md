@@ -3,8 +3,8 @@
 
 1.  **克隆或下載本倉庫：**
     ```bash
-    git clone <repository-url> contextual-wisdom-app
-    cd contextual-wisdom-app
+    git clone https://github.com/immortalnovayang/ContextualWisdom.git
+    cd ContextualWisdom
     ```
     或者直接下載 ZIP 檔案並解壓縮。
 
