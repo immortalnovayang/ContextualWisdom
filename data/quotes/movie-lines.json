@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ml001",
+    "quote": "生命就像一盒巧克力，你永遠不知道下一顆是什麼味道。(Life is like a box of chocolates. You never know what you're gonna get.)",
+    "author": "阿甘 (Forrest Gump)",
+    "work": "阿甘正傳 (Forrest Gump, 1994)",
+    "type": "電影台詞",
+    "tags": ["人生無常", "未知", "接受", "生活哲學", "珍惜當下", "人生指引"]
+  },
+  {
+    "id": "ml002",
+    "quote": "願原力與你同在。(May the Force be with you.)",
+    "author": "多位角色 (Various Characters)",
+    "work": "星際大戰系列 (Star Wars Saga)",
+    "type": "電影台詞",
+    "tags": ["祝福", "信念", "力量", "經典", "科幻", "尋求慰藉"]
+  },
+  {
+    "id": "ml003",
+    "quote": "我思故我在。(I think, therefore I am.) - 角色引用笛卡爾",
+    "author": "T-800 (角色引用)",
+    "work": "魔鬼終結者：創世契機 (Terminator Genisys, 2015)",
+    "type": "電影台詞",
+    "tags": ["哲學思考", "存在主義", "自我意識", "人工智能", "警惕反思", "創意思考"]
+  },
+  {
+    "id": "ml004",
+    "quote": "去忙著活，或者忙著死。(Get busy living, or get busy dying.)",
+    "author": "安迪·杜佛蘭 (Andy Dufresne)",
+    "work": "刺激1995 / 肖申克的救贖 (The Shawshank Redemption, 1994)",
+    "type": "電影台詞",
+    "tags": ["積極生活", "選擇", "希望", "自由", "勵志", "行動力", "人生指引"]
+  },
+  {
+    "id": "ml005",
+    "quote": "能力越大，責任越大。(With great power comes great responsibility.)",
+    "author": "班叔叔 (Uncle Ben)",
+    "work": "蜘蛛人 (Spider-Man, 2002)",
+    "type": "電影台詞",
+    "tags": ["責任", "能力", "英雄主義", "道德", "警惕反思", "處世"]
+  },
+  {
+    "id": "ml006",
+    "quote": "為什麼這麼嚴肅呢？(Why so serious?)",
+    "author": "小丑 (The Joker)",
+    "work": "黑暗騎士 (The Dark Knight, 2008)",
+    "type": "電影台詞",
+    "tags": ["反派哲學", "混亂", "幽默（黑色）", "挑戰常規", "警惕反思"]
+  },
+  {
+    "id": "ml007",
+    "quote": "道路不止一條。(There's more than one path to the top of the mountain.)",
+    "author": "師父 (Master Shifu)",
+    "work": "功夫熊貓 (Kung Fu Panda, 2008)",
+    "type": "電影台詞",
+    "tags": ["多樣性", "不同道路", "條條大路通羅馬", "人生指引", "創意思考", "尋求慰藉"]
+  },
+  {
+    "id": "ml008",
+    "quote": "我會給他一個他無法拒絕的條件。(I'm gonna make him an offer he can't refuse.)",
+    "author": "維托·柯里昂 (Vito Corleone)",
+    "work": "教父 (The Godfather, 1972)",
+    "type": "電影台詞",
+    "tags": ["權力", "談判", "威脅", "經典黑幫", "警惕反思", "處世"]
+  },
+  {
+    "id": "ml009",
+    "quote": "你不可能同時處理真相！(You can't handle the truth!)",
+    "author": "納森·傑瑟普上校 (Col. Nathan R. Jessup)",
+    "work": "軍官與魔鬼 / 好人寥寥 (A Few Good Men, 1992)",
+    "type": "電影台詞",
+    "tags": ["真相", "逃避現實", "道德困境", "人性", "警惕反思"]
+  },
+  {
+    "id": "ml010",
+    "quote": "即使是最小的人也能改變未來的進程。(Even the smallest person can change the course of the future.)",
+    "author": "凱蘭崔爾 (Galadriel)",
+    "work": "魔戒首部曲：魔戒現身 (The Lord of the Rings: The Fellowship of the Ring, 2001)",
+    "type": "電影台詞",
+    "tags": ["平凡的偉大", "影響力", "希望", "勇氣", "勵志", "生命力"]
+  },
+  {
+    "id": "ml011",
+    "quote": "我有一個感覺，我們不在堪薩斯了。(Toto, I've a feeling we're not in Kansas anymore.)",
+    "author": "桃樂絲 (Dorothy Gale)",
+    "work": "綠野仙蹤 (The Wizard of Oz, 1939)",
+    "type": "電影台詞",
+    "tags": ["新環境", "未知探索", "轉變", "經典", "感到迷茫"]
+  },
+  {
+    "id": "ml012",
+    "quote": "我會回來的。(I'll be back.)",
+    "author": "T-800",
+    "work": "魔鬼終結者 (The Terminator, 1984)",
+    "type": "電影台詞",
+    "tags": ["經典", "承諾", "威脅", "科幻", "堅持不懈"]
+  },
+  {
+    "id": "ml013",
+    "quote": "做，還是不做。沒有『試試看』這回事。(Do or do not. There is no try.)",
+    "author": "尤達大師 (Master Yoda)",
+    "work": "星際大戰五部曲：帝國大反擊 (Star Wars: Episode V – The Empire Strikes Back, 1980)",
+    "type": "電影台詞",
+    "tags": ["決心", "行動力", "信念", "沒有藉口", "勵志", "克服困難"]
+  },
+  {
+    "id": "ml014",
+    "quote": "保持你的朋友親近，但讓你的敵人更親近。(Keep your friends close, but your enemies closer.)",
+    "author": "麥可·柯里昂 (Michael Corleone)",
+    "work": "教父第二集 (The Godfather Part II, 1974)",
+    "type": "電影台詞",
+    "tags": ["策略", "人際關係（權謀）", "警惕", "生存法則", "處世", "警惕反思"]
+  },
+  {
+    "id": "ml015",
+    "quote": "有些鳥兒是關不住的，他們的羽毛太鮮亮了。(Some birds aren't meant to be caged. Their feathers are too bright.)",
+    "author": "瑞德 (Red)",
+    "work": "刺激1995 / 肖申克的救贖 (The Shawshank Redemption, 1994)",
+    "type": "電影台詞",
+    "tags": ["自由", "天性", "無法束縛", "希望", "生命力", "尋求慰藉"]
+  },
+  {
+    "id": "ml016",
+    "quote": "這才是剛開始一段美好友誼。(Here's looking at you, kid. / Louis, I think this is the beginning of a beautiful friendship.)",
+    "author": "瑞克·布萊恩 (Rick Blaine)",
+    "work": "北非諜影 / 卡薩布蘭卡 (Casablanca, 1942)",
+    "type": "電影台詞",
+    "tags": ["友誼開始", "經典愛情", "離別與希望", "人際關係", "喜悅"]
+  },
+  {
+    "id": "ml017",
+    "quote": "沒有湯給你喝！(No soup for you!)",
+    "author": "湯品納粹 (The Soup Nazi)",
+    "work": "歡樂單身派對 (Seinfeld, TV Series) - 雖為影集，但極其經典",
+    "type": "電影台詞",
+    "tags": ["幽默", "規矩", "荒謬", "流行文化", "警惕反思"]
+  },
+  {
+    "id": "ml018",
+    "quote": "人生得意須盡歡。(Carpe diem. Seize the day, boys. Make your lives extraordinary.)",
+    "author": "約翰·基廷 (John Keating)",
+    "work": "春風化雨 / 死亡詩社 (Dead Poets Society, 1989)",
+    "type": "電影台詞",
+    "tags": ["把握當下", "活出精彩", "及時行樂", "勵志", "人生指引", "珍惜當下"]
+  },
+  {
+    "id": "ml019",
+    "quote": "秀逗啦！(Show me the money!)",
+    "author": "羅德·泰德威爾 (Rod Tidwell)",
+    "work": "征服情海 / 甜心先生 (Jerry Maguire, 1996)",
+    "type": "電影台詞",
+    "tags": ["金錢至上（諷刺）", "現實主義", "流行語", "商業", "警惕反思"]
+  },
+  {
+    "id": "ml020",
+    "quote": "你讓我變得完整。(You complete me.)",
+    "author": "傑瑞·麥奎爾 (Jerry Maguire)",
+    "work": "征服情海 / 甜心先生 (Jerry Maguire, 1996)",
+    "type": "電影台詞",
+    "tags": ["愛情", "完整", "情感表達", "人際關係", "喜悅", "尋求慰藉"]
+  },
+  {
+    "id": "ml021",
+    "quote": "夢想更大一點，親愛的。(You gotta dream a little bigger, darling.)",
+    "author": "伊姆斯 (Eames)",
+    "work": "全面啟動 / 盜夢空間 (Inception, 2010)",
+    "type": "電影台詞",
+    "tags": ["夢想", "格局", "挑戰極限", "想像力", "勵志", "創意思考"]
+  },
+  {
+    "id": "ml022",
+    "quote": "為什麼我們要跌倒？這樣我們才能學會自己站起來。(Why do we fall? So that we can learn to pick ourselves up.)",
+    "author": "阿福·潘尼沃斯 (Alfred Pennyworth)",
+    "work": "蝙蝠俠：開戰時刻 (Batman Begins, 2005)",
+    "type": "電影台詞",
+    "tags": ["從失敗中學習", "韌性", "成長", "克服困難", "勵志", "人生指引"]
+  },
+  {
+    "id": "ml023",
+    "quote": "並非所有流浪者都迷失了方向。(Not all those who wander are lost.)",
+    "author": "比爾博·巴金斯 (Bilbo Baggins) (引用托爾金詩句)",
+    "work": "魔戒首部曲：魔戒現身 (The Lord of the Rings: The Fellowship of the Ring, 2001)",
+    "type": "電影台詞",
+    "tags": ["探索", "自由", "非傳統道路", "自我追尋", "感到迷茫", "自我探索"]
+  },
+  {
+    "id": "ml024",
+    "quote": "我就是鋼鐵人。(I am Iron Man.)",
+    "author": "東尼·史塔克 (Tony Stark)",
+    "work": "鋼鐵人 (Iron Man, 2008)",
+    "type": "電影台詞",
+    "tags": ["自我認同", "英雄宣言", "自信", "漫威", "行動力"]
+  },
+  {
+    "id": "ml025",
+    "quote": "傻瓜，跑啊！(Fly, you fools!)",
+    "author": "甘道夫 (Gandalf)",
+    "work": "魔戒首部曲：魔戒現身 (The Lord of the Rings: The Fellowship of the Ring, 2001)",
+    "type": "電影台詞",
+    "tags": ["犧牲", "警示", "緊急關頭", "經典奇幻", "警惕反思"]
+  },
+  {
+    "id": "ml026",
+    "quote": "有些事情值得我們為之奮鬥。(Some things are worth fighting for.)",
+    "author": "多位角色 (例如：神力女超人)",
+    "work": "多部英雄電影",
+    "type": "電影台詞",
+    "tags": ["信念", "正義", "奮鬥理由", "勇氣", "勵志", "堅持不懈"]
+  },
+  {
+    "id": "ml027",
+    "quote": "我們以我們的選擇來顯示我們真正是誰，這遠勝過我們的能力。(It is our choices, Harry, that show what we truly are, far more than our abilities.)",
+    "author": "阿不思·鄧不利多 (Albus Dumbledore)",
+    "work": "哈利波特：消失的密室 (Harry Potter and the Chamber of Secrets, 2002)",
+    "type": "電影台詞",
+    "tags": ["選擇的重要性", "品格", "超越能力", "人生哲學", "人生指引", "自我探索"]
+  },
+  {
+    "id": "ml028",
+    "quote": "過去有時會讓人受傷。但依我看，你可以選擇逃避，或者從中學習。(The past can hurt. But the way I see it, you can either run from it or learn from it.)",
+    "author": "拉飛奇 (Rafiki)",
+    "work": "獅子王 (The Lion King, 1994)",
+    "type": "電影台詞",
+    "tags": ["面對過去", "從錯誤中學習", "成長", "療癒", "人生指引", "尋求慰藉"]
+  },
+  {
+    "id": "ml029",
+    "quote": "這不是你能為你的國家做什麼，而是你能為自己做什麼來建立這個國家。(Ask not what your country can do for you – ask what you can do for your country.) - 電影中引用甘迺迪",
+    "author": "阿甘 (角色引用)",
+    "work": "阿甘正傳 (Forrest Gump, 1994)",
+    "type": "電影台詞",
+    "tags": ["貢獻", "公民責任", "愛國主義", "行動", "名言引用", "警惕反思"]
+  },
+  {
+    "id": "ml030",
+    "quote": "敬那些做夢的傻瓜，儘管他們看起來有多傻。敬那些傷痕累累的心，敬我們製造的混亂。(Here's to the ones who dream, foolish as they may seem. Here's to the hearts that ache, here's to the mess we make.)",
+    "author": "米婭 (Mia)",
+    "work": "樂來越愛你 / 拉拉之地 (La La Land, 2016)",
+    "type": "電影台詞",
+    "tags": ["追夢人", "不完美", "致敬", "藝術人生", "喜悅", "生命力", "尋求慰藉"]
+  }
+]

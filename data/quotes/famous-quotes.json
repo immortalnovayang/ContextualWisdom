@@ -1,0 +1,242 @@
+[
+  {
+    "id": "fq001",
+    "quote": "想像力比知識更重要。(Imagination is more important than knowledge.)",
+    "author": "阿爾伯特·愛因斯坦 (Albert Einstein)",
+    "work": "多次訪談中提及",
+    "type": "名人名言",
+    "tags": ["想像力", "知識", "創造力", "科學", "創意思考", "創作靈感"]
+  },
+  {
+    "id": "fq002",
+    "quote": "我思故我在。(Cogito, ergo sum / I think, therefore I am.)",
+    "author": "勒內·笛卡爾 (René Descartes)",
+    "work": "《談談方法》(Discourse on the Method)",
+    "type": "名人名言",
+    "tags": ["哲學", "存在主義", "自我意識", "理性思考", "警惕反思", "自我探索"]
+  },
+  {
+    "id": "fq003",
+    "quote": "人生苦短，我用 Python。(Life is short, you need Python.)",
+    "author": "Bruce Eckel (常被程式設計師社群引用此變體)",
+    "work": "程式設計師幽默/理念",
+    "type": "名人名言",
+    "tags": ["程式設計", "效率", "幽默", "科技", "Python", "創意思考"]
+  },
+  {
+    "id": "fq004",
+    "quote": "求知若飢，虛心若愚。(Stay hungry. Stay foolish.)",
+    "author": "史蒂夫·賈伯斯 (Steve Jobs) (引用自《全球概覽》)",
+    "work": "史丹佛大學畢業典禮演講",
+    "type": "名人名言",
+    "tags": ["求知", "謙遜", "創新", "人生態度", "勵志", "人生指引"]
+  },
+  {
+    "id": "fq005",
+    "quote": "政府之於民，猶水之於魚。(Government of the people, by the people, for the people.)",
+    "author": "亞伯拉罕·林肯 (Abraham Lincoln)",
+    "work": "蓋茲堡演說 (Gettysburg Address)",
+    "type": "名人名言",
+    "tags": ["民主", "人民主權", "政治哲學", "理想", "警惕反思"]
+  },
+  {
+    "id": "fq006",
+    "quote": "知識就是力量。(Knowledge is power.)",
+    "author": "法蘭西斯·培根 (Francis Bacon)",
+    "work": "《沉思錄》(Meditationes Sacrae) (重複 be006，但作為單獨名人名言亦可)",
+    "type": "名人名言",
+    "tags": ["知識", "力量", "學習", "啟蒙", "勵志"]
+  },
+  {
+    "id": "fq007",
+    "quote": "吾愛吾師，吾更愛真理。(Amicus Plato, amicus Aristoteles, sed magis amica veritas. / Plato is my friend, Aristotle is my friend, but my best friend is truth.)",
+    "author": "艾薩克·牛頓 (Isaac Newton) (改編自亞里斯多德)",
+    "work": "科學家座右銘",
+    "type": "名人名言",
+    "tags": ["追求真理", "科學精神", "批判性思維", "獨立思考", "警惕反思"]
+  },
+  {
+    "id": "fq008",
+    "quote": "讀萬卷書，行萬里路。(Read ten thousand books, travel ten thousand miles.)",
+    "author": "董其昌 (Dong Qichang)",
+    "work": "中國古代畫家、書法家",
+    "type": "名人名言",
+    "tags": ["知行合一", "學習與實踐", "開闊眼界", "人生體驗", "人生指引"]
+  },
+  {
+    "id": "fq009",
+    "quote": "給我一個支點，我可以舉起整個地球。(Give me a place to stand, and I shall move the Earth.)",
+    "author": "阿基米德 (Archimedes)",
+    "work": "古希臘科學家 (關於槓桿原理)",
+    "type": "名人名言",
+    "tags": ["槓桿原理", "潛力", "方法論", "科學", "創意思考", "想像力"]
+  },
+  {
+    "id": "fq010",
+    "quote": "筆尖有利劍。(The pen is mightier than the sword.)",
+    "author": "愛德華·布爾沃-李頓 (Edward Bulwer-Lytton)",
+    "work": "劇本《黎塞留》",
+    "type": "名人名言",
+    "tags": ["文字的力量", "思想傳播", "文化影響", "非暴力", "警惕反思"]
+  },
+  {
+    "id": "fq011",
+    "quote": "人人生而平等。(All men are created equal.)",
+    "author": "托馬斯·傑弗遜 (Thomas Jefferson)",
+    "work": "美國獨立宣言 (United States Declaration of Independence)",
+    "type": "名人名言",
+    "tags": ["平等", "人權", "普世價值", "政治理想", "警惕反思"]
+  },
+  {
+    "id": "fq012",
+    "quote": "這是我個人的一小步，卻是人類的一大步。(That's one small step for a man, one giant leap for mankind.)",
+    "author": "尼爾·阿姆斯壯 (Neil Armstrong)",
+    "work": "登月感言",
+    "type": "名人名言",
+    "tags": ["人類進步", "里程碑", "太空探索", "勇氣", "歷史時刻", "生命力"]
+  },
+  {
+    "id": "fq013",
+    "quote": "我有一個夢想。(I have a dream.)",
+    "author": "馬丁·路德·金 (Martin Luther King Jr.)",
+    "work": "華盛頓大遊行演講",
+    "type": "名人名言",
+    "tags": ["夢想", "平等權利", "民權運動", "社會正義", "勵志", "人生指引"]
+  },
+  {
+    "id": "fq014",
+    "quote": "生存還是毀滅，這是一個值得考慮的問題。(To be, or not to be, that is the question.)",
+    "author": "威廉·莎士比亞 (William Shakespeare)",
+    "work": "《哈姆雷特》(Hamlet)",
+    "type": "名人名言",
+    "tags": ["存在困境", "人生抉擇", "哲學思辨", "文學經典", "感到迷茫", "自我探索"]
+  },
+  {
+    "id": "fq015",
+    "quote": "簡單是終極的複雜。(Simplicity is the ultimate sophistication.)",
+    "author": "李奧納多·達文西 (Leonardo da Vinci) (重複 lp022，因其非常著名)",
+    "work": "藝術與設計哲學",
+    "type": "名人名言",
+    "tags": ["簡約", "設計哲學", "返璞歸真", "智慧", "創意思考"]
+  },
+  {
+    "id": "fq016",
+    "quote": "唯一限制我們實現明天夢想的，是我們今天的疑慮。(The only limit to our realization of tomorrow will be our doubts of today.)",
+    "author": "富蘭克林·D·羅斯福 (Franklin D. Roosevelt) (重複 pg013，因其廣泛性)",
+    "work": "演講",
+    "type": "名人名言",
+    "tags": ["克服疑慮", "信念", "夢想", "潛能", "勵志"]
+  },
+  {
+    "id": "fq017",
+    "quote": "成為你想看到的改變。(Be the change that you wish to see in the world.)",
+    "author": "聖雄甘地 (Mahatma Gandhi) (重複 pg003，因其普適性)",
+    "work": "人生哲學",
+    "type": "名人名言",
+    "tags": ["以身作則", "改變", "影響力", "行動", "社會責任"]
+  },
+  {
+    "id": "fq018",
+    "quote": "如果你評判他人，你就沒有時間去愛他們。(If you judge people, you have no time to love them.)",
+    "author": "德蕾莎修女 (Mother Teresa)",
+    "work": "愛的哲學",
+    "type": "名人名言",
+    "tags": ["愛與評判", "寬容", "同理心", "人際關係", "尋求慰藉", "處世"]
+  },
+  {
+    "id": "fq019",
+    "quote": "羅馬不是一天造成的。(Rome wasn't built in a day.)",
+    "author": "約翰·海伍德 (John Heywood) (收集的諺語)",
+    "work": "英國諺語",
+    "type": "名人名言",
+    "tags": ["耐心", "積累", "持之以恆", "長期努力", "堅持不懈"]
+  },
+  {
+    "id": "fq020",
+    "quote": "機會垂青有準備的人。(Chance favors the prepared mind.)",
+    "author": "路易·巴斯德 (Louis Pasteur)",
+    "work": "科學家",
+    "type": "名人名言",
+    "tags": ["準備", "機會", "勤奮", "科學發現", "勵志", "行動力"]
+  },
+  {
+    "id": "fq021",
+    "quote": "無知不是恥辱，不願學習才是。(Ignorance is not a shame, but disinclination to learn is.)",
+    "author": "班傑明·富蘭克林 (Benjamin Franklin)",
+    "work": "美國開國元勛",
+    "type": "名人名言",
+    "tags": ["學習態度", "求知慾", "謙遜", "持續學習", "警惕反思"]
+  },
+  {
+    "id": "fq022",
+    "quote": "天才百分之一是靈感，百分之九十九是汗水。(Genius is one percent inspiration and ninety-nine percent perspiration.)",
+    "author": "湯瑪斯·愛迪生 (Thomas A. Edison)",
+    "work": "發明家",
+    "type": "名人名言",
+    "tags": ["努力", "勤奮", "天才與汗水", "堅持", "創作靈感", "勵志"]
+  },
+  {
+    "id": "fq023",
+    "quote": "寧鳴而死，不默而生。(Better to die on your feet than live on your knees.)",
+    "author": "埃米利亞諾·薩帕塔 (Emiliano Zapata) (墨西哥革命家，或更早來源)",
+    "work": "反抗精神",
+    "type": "名人名言",
+    "tags": ["抗爭", "自由", "尊嚴", "勇氣", "警惕反思"]
+  },
+  {
+    "id": "fq024",
+    "quote": "條條大路通羅馬。(All roads lead to Rome.)",
+    "author": "古羅馬諺語 (Roman Proverb)",
+    "work": "諺語",
+    "type": "名人名言",
+    "tags": ["多樣途徑", "目標一致", "方法不同", "人生指引", "創意思考"]
+  },
+  {
+    "id": "fq025",
+    "quote": "欲速則不達。(More haste, less speed.)",
+    "author": "孔子 (Confucius) (《論語》中的思想)",
+    "work": "中國古代哲學",
+    "type": "名人名言",
+    "tags": ["穩健", "耐心", "循序漸進", "警惕反思", "處世"]
+  },
+  {
+    "id": "fq026",
+    "quote": "實踐是檢驗真理的唯一標準。(Practice is the sole criterion for testing truth.)",
+    "author": "卡爾·馬克思 (Karl Marx) / 毛澤東 (Mao Zedong) (在中國廣為流傳)",
+    "work": "哲學與實踐",
+    "type": "名人名言",
+    "tags": ["實踐出真知", "檢驗真理", "理論與實際", "警惕反思"]
+  },
+  {
+    "id": "fq027",
+    "quote": "上帝助自助者。(God helps those who help themselves.)",
+    "author": "班傑明·富蘭克林 (Benjamin Franklin) (在其《窮理查年鑑》中推廣)",
+    "work": "諺語/格言",
+    "type": "名人名言",
+    "tags": ["自力更生", "主動性", "努力", "勵志", "行動力"]
+  },
+  {
+    "id": "fq028",
+    "quote": "人生得意須盡歡，莫使金樽空對月。(Enjoy life while you can, don't let your gold cup be empty to the moon.)",
+    "author": "李白 (Li Bai)",
+    "work": "《將進酒》",
+    "type": "名人名言",
+    "tags": ["及時行樂", "享受當下", "詩意人生", "中國古詩詞", "喜悅", "珍惜當下"]
+  },
+  {
+    "id": "fq029",
+    "quote": "時間就是金錢。(Time is money.)",
+    "author": "班傑明·富蘭克林 (Benjamin Franklin)",
+    "work": "《給一個年輕商人的忠告》",
+    "type": "名人名言",
+    "tags": ["時間價值", "效率", "商業原則", "警惕反思"]
+  },
+  {
+    "id": "fq030",
+    "quote": "哪裡有愛，哪裡就有生命。(Where there is love there is life.)",
+    "author": "聖雄甘地 (Mahatma Gandhi)",
+    "work": "愛的哲學",
+    "type": "名人名言",
+    "tags": ["愛的力量", "生命力", "人際關係", "希望", "尋求慰藉", "喜悅"]
+  }
+]

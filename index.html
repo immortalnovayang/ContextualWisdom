@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>情境智語 - Contextual Wisdom</title>
+    <!-- Font Awesome for icons (ensure you have an internet connection for this to work) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>情境智語 <span class="subtitle">(Contextual Wisdom)</span></h1>
+        <div class="header-actions">
+            <div class="theme-switcher"> <!-- Wrapper for theme toggle and dropdown -->
+                <button id="theme-toggle-btn" class="icon-btn" aria-label="切換色彩主題" aria-haspopup="true" aria-expanded="false">
+                    <i class="fas fa-palette"></i> <!-- Palette icon -->
+                </button>
+                <div id="theme-dropdown" class="theme-dropdown" role="menu">
+                    <button class="theme-option" data-theme="light" role="menuitemradio" aria-checked="true">
+                        <i class="fas fa-sun"></i> 淺色 (預設)
+                    </button>
+                    <button class="theme-option" data-theme="dark" role="menuitemradio" aria-checked="false">
+                        <i class="fas fa-moon"></i> 深色
+                    </button>
+                    <button class="theme-option" data-theme="sepia" role="menuitemradio" aria-checked="false">
+                        <i class="fas fa-book-open"></i> 棕褐色
+                    </button>
+                </div>
+            </div>
+            <button id="filter-icon-btn" class="icon-btn" aria-label="打開篩選器">
+                <i class="fas fa-filter"></i>
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <div class="situational-guide-container">
+            <h2>我需要一句...</h2>
+            <div id="situational-buttons" class="situational-buttons-grid">
+                <!-- 情境按鈕將由 JS 動態載入 -->
+            </div>
+            <div id="situational-actions" class="situational-actions-bar">
+                <!-- “再來一句” 和 “查看全部” 按鈕將顯示於此 -->
+            </div>
+        </div>
+
+        <div id="current-filters-display" class="current-filters-display">
+            <!-- 當前篩選條件 (非情境) 將顯示於此 -->
+        </div>
+        <button id="clear-all-filters-btn" class="clear-all-btn" style="display: none;">清除所有篩選</button>
+
+
+        <section id="quotes-display-area" class="quotes-grid">
+            <p id="loading-message">正在載入名言...</p>
+            <!-- 名言卡片將顯示於此 -->
+        </section>
+        
+        <!-- Filter Panel (Off-Canvas) -->
+        <div id="filter-panel" class="filter-panel">
+            <div class="filter-panel-header">
+                <h3>篩選名言</h3>
+                <button id="close-filter-panel-btn" class="icon-btn" aria-label="關閉篩選器">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="filter-panel-content">
+                <div class="control-group">
+                    <label for="panel-search-input">搜尋：</label>
+                    <input type="text" id="panel-search-input" placeholder="言論、作者、作品...">
+                </div>
+                <div class="control-group">
+                    <label for="panel-type-select">類型：</label>
+                    <select id="panel-type-select">
+                        <option value="">所有類型</option>
+                        <!-- 類型選項將由 JS 動態載入 -->
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label>標籤：</label>
+                    <div id="panel-selected-tags" class="selected-tags-container">
+                        <!-- 已選標籤 (Pills) 將顯示於此 -->
+                    </div>
+                    <button id="open-tag-modal-btn" class="btn-secondary">選擇更多標籤 +</button>
+                </div>
+            </div>
+            <div class="filter-panel-footer">
+                <button id="panel-reset-filters-btn" class="btn-tertiary">重設</button>
+                <button id="panel-apply-filters-btn" class="btn-primary">查看結果</button>
+            </div>
+        </div>
+        <div id="filter-panel-overlay" class="panel-overlay"></div>
+
+        <!-- Tag Selection Modal -->
+        <div id="tag-selection-modal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>選擇標籤</h3>
+                    <button id="close-tag-modal-btn" class="icon-btn" aria-label="關閉標籤選擇">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <input type="text" id="tag-search-input" placeholder="搜尋標籤..." class="modal-search-input">
+                    <div id="modal-tag-list" class="tag-list-container">
+                        <!-- 標籤 Checkbox 將顯示於此 -->
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button id="tag-modal-confirm-btn" class="btn-primary">確定</button>
+                </div>
+            </div>
+        </div>
+        <div id="tag-modal-overlay" class="panel-overlay"></div> <!-- Reused class for simplicity, ideally a unique one -->
+
+    </main>
+
+    <footer>
+        <p>© <span id="current-year"></span> 情境智語 (Contextual Wisdom)</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ww001",
+    "quote": "選擇一份你熱愛的工作，那麼你一生中就沒有一天是在工作。(Choose a job you love, and you will never have to work a day in your life.)",
+    "author": "孔子 (Confucius) (常被如此引用，強調工作與興趣結合)",
+    "work": "職業選擇哲學",
+    "type": "職場智慧",
+    "tags": ["工作熱情", "職業選擇", "興趣驅動", "工作滿意度", "人生指引", "喜悅"]
+  },
+  {
+    "id": "ww002",
+    "quote": "成功的關鍵不是資訊，而是專注。(The key to success is not information. It is focus.)",
+    "author": "內森·羅斯柴爾德 (Nathan Rothschild) (類似觀點，強調專注力)",
+    "work": "工作效率",
+    "type": "職場智慧",
+    "tags": ["專注力", "工作效率", "優先順序", "時間管理", "警惕反思"]
+  },
+  {
+    "id": "ww003",
+    "quote": "不要等待領導者；自己動手，一個一個地來。(Don't wait for leaders; do it alone, person to person.)",
+    "author": "德蕾莎修女 (Mother Teresa)",
+    "work": "關於主動性和影響力",
+    "type": "職場智慧",
+    "tags": ["主動性", "個人領導力", "影響力", "行動力", "責任感"]
+  },
+  {
+    "id": "ww004",
+    "quote": "如果你想讓事情順利完成，就交給忙碌的人去做。(If you want something done, ask a busy person to do it.)",
+    "author": "班傑明·富蘭克林 (Benjamin Franklin) (類似觀點)",
+    "work": "效率與責任感",
+    "type": "職場智慧",
+    "tags": ["高效人士", "責任感", "時間管理", "執行力", "警惕反思"]
+  },
+  {
+    "id": "ww005",
+    "quote": "溝通中最重要的事，是聽到沒有說出口的話。(The most important thing in communication is hearing what isn't said.)",
+    "author": "彼得·杜拉克 (Peter Drucker)",
+    "work": "管理溝通",
+    "type": "職場智慧",
+    "tags": ["有效溝通", "傾聽", "非語言溝通", "洞察力", "人際關係", "處世"]
+  },
+  {
+    "id": "ww006",
+    "quote": "努力工作能解決我們90%的問題。(Hard work solves 90% of our problems.)",
+    "author": "不詳 (強調努力的重要性)",
+    "work": "工作態度",
+    "type": "職場智慧",
+    "tags": ["努力工作", "解決問題", "勤奮", "職業道德", "堅持不懈"]
+  },
+  {
+    "id": "ww007",
+    "quote": "唯一能做好工作的辦法是熱愛你所做的事。(The only way to do great work is to love what you do.)",
+    "author": "史蒂夫·賈伯斯 (Steve Jobs)",
+    "work": "蘋果公司理念",
+    "type": "職場智慧",
+    "tags": ["工作熱情", "追求卓越", "內在驅動", "職業滿意度", "人生指引"]
+  },
+  {
+    "id": "ww008",
+    "quote": "不要讓昨天占据你太多的今天。(Don't let yesterday take up too much of today.)",
+    "author": "威爾·羅傑斯 (Will Rogers)",
+    "work": "專注當下",
+    "type": "職場智慧",
+    "tags": ["活在當下", "放下過去", "專注力", "時間管理", "珍惜當下"]
+  },
+  {
+    "id": "ww009",
+    "quote": "機會往往偽裝成辛勤的工作，所以大多數人都認不出來。(Opportunity is missed by most people because it is dressed in overalls and looks like work.)",
+    "author": "湯瑪斯·愛迪生 (Thomas A. Edison)",
+    "work": "發明家的洞察",
+    "type": "職場智慧",
+    "tags": ["把握機會", "辛勤工作", "洞察力", "勤奮的價值", "警惕反思"]
+  },
+  {
+    "id": "ww010",
+    "quote": "如果你想走得快，就獨自前行；如果你想走得遠，就結伴同行。(If you want to go fast, go alone. If you want to go far, go together.)",
+    "author": "非洲諺語 (African Proverb) (之前在 tech-innovation 中也適用)",
+    "work": "團隊合作的重要性",
+    "type": "職場智慧",
+    "tags": ["團隊合作", "協作", "長期發展", "集體智慧", "人際關係"]
+  },
+  {
+    "id": "ww011",
+    "quote": "拖延是時間的竊賊。(Procrastination is the thief of time.)",
+    "author": "愛德華·楊 (Edward Young)",
+    "work": "詩人，關於時間管理",
+    "type": "職場智慧",
+    "tags": ["克服拖延", "時間管理", "效率", "自律", "警惕反思"]
+  },
+  {
+    "id": "ww012",
+    "quote": "在工作中尋找樂趣，否則你可能找不到樂趣。(Find something you're passionate about and keep tremendously interested in it.)",
+    "author": "茱莉亞·查爾德 (Julia Child) (類似觀點，強調熱情)",
+    "work": "工作態度",
+    "type": "職場智慧",
+    "tags": ["工作樂趣", "熱情", "積極心態", "職業滿意度", "喜悅", "生命力"]
+  },
+  {
+    "id": "ww013",
+    "quote": "不要害怕提出「愚蠢」的問題。它們往往是最難回答的問題。(Don't be afraid to ask 'stupid' questions. They are often the hardest ones to answer.)",
+    "author": "不詳 (鼓勵提問的文化)",
+    "work": "學習與溝通",
+    "type": "職場智慧",
+    "tags": ["勇於提問", "好奇心", "學習文化", "有效溝通", "創意思考"]
+  },
+  {
+    "id": "ww014",
+    "quote": "成功人士與不成功人士的區別不在於力量或知識，而在於意志力。(The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.)",
+    "author": "文斯·隆巴迪 (Vince Lombardi)",
+    "work": "美式足球教練的成功觀",
+    "type": "職場智慧",
+    "tags": ["意志力", "決心", "成功要素", "堅持不懈", "克服困難"]
+  },
+  {
+    "id": "ww015",
+    "quote": "最好的領導者是那些幾乎不為人所知的人。當他們的工作完成，目標實現時，人們會說：『這是我們自己做的。』(A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.)",
+    "author": "老子 (Lao Tzu)",
+    "work": "《道德經》中的領導哲學",
+    "type": "職場智慧",
+    "tags": ["無為而治", "賦能型領導", "團隊成就", "謙遜領導", "領導藝術", "處世"]
+  },
+  {
+    "id": "ww016",
+    "quote": "保持忙碌並不等同於富有成效。(Being busy does not always mean real work.)",
+    "author": "湯瑪斯·愛迪生 (Thomas A. Edison) (類似觀點)",
+    "work": "效率與成果",
+    "type": "職場智慧",
+    "tags": ["工作效率", "成果導向", "時間管理", "優先順序", "警惕反思"]
+  },
+  {
+    "id": "ww017",
+    "quote": "永遠準時。這不僅是尊重他人時間的表現，也是你專業素養的體現。(Always be on time. It's a sign of respect for other people's time and a reflection of your professionalism.)",
+    "author": "不詳 (職場基本禮儀)",
+    "work": "職業素養",
+    "type": "職場智慧",
+    "tags": ["守時", "職業素養", "尊重", "專業形象", "警惕反思"]
+  },
+  {
+    "id": "ww018",
+    "quote": "不要害怕尋求幫助。承認自己不知道某事是智慧的開始。(Don't be afraid to ask for help. Admitting you don't know something is the beginning of wisdom.)",
+    "author": "不詳 (鼓勵合作與學習)",
+    "work": "團隊與學習",
+    "type": "職場智慧",
+    "tags": ["尋求幫助", "團隊合作", "謙遜學習", "承認不足", "自我探索"]
+  },
+  {
+    "id": "ww019",
+    "quote": "你的態度，而不是你的才能，將決定你的高度。(Your attitude, not your aptitude, will determine your altitude.)",
+    "author": "吉格·金克拉 (Zig Ziglar)",
+    "work": "勵志演說家",
+    "type": "職場智慧",
+    "tags": ["態度重要性", "積極心態", "職業發展", "成功要素", "勵志"]
+  },
+  {
+    "id": "ww020",
+    "quote": "在重要的事情上，保持一致；在次要的事情上，保持彈性；在所有事情上，保持仁慈。(In essential things, unity; in non-essential things, liberty; in all things, charity.)",
+    "author": "奧古斯丁 (Augustine) (常被引用於團隊合作)",
+    "work": "合作原則",
+    "type": "職場智慧",
+    "tags": ["團隊協作", "求同存異", "靈活性", "仁慈", "人際關係", "處世"]
+  },
+  {
+    "id": "ww021",
+    "quote": "花時間磨利你的斧頭。(Take time to sharpen the axe.)",
+    "author": "亞伯拉罕·林肯 (Abraham Lincoln) (比喻)",
+    "work": "準備與效率",
+    "type": "職場智慧",
+    "tags": ["技能提升", "學習準備", "工欲善其事必先利其器", "效率", "創意思考"]
+  },
+  {
+    "id": "ww022",
+    "quote": "專業人士是即使在不想做的時候也能把工作做好的人。(A professional is someone who can do his best work when he doesn't feel like it.)",
+    "author": "阿利斯泰爾·庫克 (Alistair Cooke)",
+    "work": "記者",
+    "type": "職場智慧",
+    "tags": ["職業精神", "自律", "敬業", "情緒管理", "堅持不懈"]
+  },
+  {
+    "id": "ww023",
+    "quote": "不要只是努力工作，更要聰明地工作。(Don't just work hard, work smart.)",
+    "author": "不詳 (常見的工作方法論)",
+    "work": "效率與策略",
+    "type": "職場智慧",
+    "tags": ["聰明工作", "工作方法", "效率", "策略思考", "創意思考"]
+  },
+  {
+    "id": "ww024",
+    "quote": "會議是工作的墳墓。(Meetings are the graveyard of work.)",
+    "author": "不詳 (對低效會議的諷刺)",
+    "work": "會議效率",
+    "type": "職場智慧",
+    "tags": ["會議管理", "時間浪費", "效率低下", "警惕反思", "幽默"]
+  },
+  {
+    "id": "ww025",
+    "quote": "建立人脈不是關於你認識誰，而是關於誰認識你，以及他們如何評價你。(Networking is not about who you know, it's about who knows you and how they perceive you.)",
+    "author": "不詳 (人脈經營觀點)",
+    "work": "職業發展",
+    "type": "職場智慧",
+    "tags": ["人脈經營", "個人品牌", "聲譽管理", "職業發展", "處世", "名聲"]
+  },
+  {
+    "id": "ww026",
+    "quote": "對你的工作抱持熱情，但不要讓工作定義你的全部。(Be passionate about your work, but don't let it define your entire identity.)",
+    "author": "不詳 (工作與生活平衡的建議)",
+    "work": "職業心態",
+    "type": "職場智慧",
+    "tags": ["工作生活平衡", "自我認同", "職業倦怠預防", "人生指引", "警惕反思", "尋求慰藉"]
+  },
+  {
+    "id": "ww027",
+    "quote": "在爭論中，獲勝的最佳方式是避免爭論。(The best way to win an argument is to avoid it.)",
+    "author": "戴爾·卡內基 (Dale Carnegie) (類似觀點)",
+    "work": "《人性的弱點》",
+    "type": "職場智慧",
+    "tags": ["溝通技巧", "避免衝突", "人際和諧", "情商", "處世"]
+  },
+  {
+    "id": "ww028",
+    "quote": "你的職業生涯是一場馬拉松，而不是短跑。保持你的節奏。(Your career is a marathon, not a sprint. Pace yourself.)",
+    "author": "不詳 (長期職業發展觀)",
+    "work": "職業規劃",
+    "type": "職場智慧",
+    "tags": ["長期規劃", "職業發展", "持續學習", "耐心", "人生指引", "堅持不懈"]
+  },
+  {
+    "id": "ww029",
+    "quote": "學會說『不』，這能讓你專注於真正重要的事情。(Learn to say 'no'. It will free you up to focus on the things that truly matter.)",
+    "author": "史蒂夫·賈伯斯 (Steve Jobs) (常強調專注和拒絕)",
+    "work": "時間管理與專注",
+    "type": "職場智慧",
+    "tags": ["拒絕的藝術", "專注要事", "時間管理", "優先順序", "警惕反思"]
+  },
+  {
+    "id": "ww030",
+    "quote": "永遠不要停止學習，因為生活永遠不會停止教導。(Never stop learning, because life never stops teaching.)",
+    "author": "不詳 (終身學習的理念)",
+    "work": "個人成長與職業發展",
+    "type": "職場智慧",
+    "tags": ["終身學習", "持續進步", "適應變化", "知識更新", "自我探索", "人生指引"]
+  }
+]

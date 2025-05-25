@@ -1,0 +1,242 @@
+[
+  {
+    "id": "sa001",
+    "quote": "我可以接受失敗，每個人都會在某些事上失敗。但我不能接受不去嘗試。(I can accept failure, everyone fails at something. But I can't accept not trying.)",
+    "author": "麥可·喬丹 (Michael Jordan)",
+    "work": "籃球傳奇",
+    "type": "運動精神",
+    "tags": ["嘗試", "不怕失敗", "努力", "行動力", "勵志"]
+  },
+  {
+    "id": "sa002",
+    "quote": "重要的不是你跌倒了多少次，而是你重新站起來了多少次。(It's not whether you get knocked down; it's whether you get up.)",
+    "author": "文斯·隆巴迪 (Vince Lombardi)",
+    "work": "美式足球教練 (與 pg010 相似，但強調不同角度)",
+    "type": "運動精神",
+    "tags": ["韌性", "毅力", "克服困難", "堅持不懈", "從失敗中站起"]
+  },
+  {
+    "id": "sa003",
+    "quote": "你投失的球百分之百都進不了。(You miss 100% of the shots you don't take.)",
+    "author": "韋恩·格雷茨基 (Wayne Gretzky)",
+    "work": "冰球傳奇",
+    "type": "運動精神",
+    "tags": ["把握機會", "勇於嘗試", "行動力", "不留遺憾", "勵志"]
+  },
+  {
+    "id": "sa004",
+    "quote": "冠軍不是在體育館裡產生的。冠軍源於他們內心深處的東西——渴望、夢想、願景。(Champions aren't made in gyms. Champions are made from something they have deep inside them – a desire, a dream, a vision.)",
+    "author": "穆罕默德·阿里 (Muhammad Ali)",
+    "work": "拳王",
+    "type": "運動精神",
+    "tags": ["內在驅動", "夢想", "渴望", "願景", "意志力", "勵志"]
+  },
+  {
+    "id": "sa005",
+    "quote": "艱難的時刻不會長久，但堅強的人會。(Tough times never last, but tough people do.)",
+    "author": "羅伯特·舒勒 (Robert H. Schuller) (常被運動員引用)",
+    "work": "勵志名言",
+    "type": "運動精神",
+    "tags": ["堅強", "韌性", "克服困難", "堅持不懈", "尋求慰藉"]
+  },
+  {
+    "id": "sa006",
+    "quote": "沒有所謂的『我』在團隊中，但有『贏』。(There is no 'I' in team, but there is in win.)",
+    "author": "麥可·喬丹 (Michael Jordan) / 傳統團隊格言的變體",
+    "work": "關於團隊與個人",
+    "type": "運動精神",
+    "tags": ["團隊合作", "個人貢獻", "勝利", "警惕反思"]
+  },
+  {
+    "id": "sa007",
+    "quote": "障礙不必阻止你。如果你撞到一堵牆，不要轉身放棄。要想辦法爬過去、穿過去，或者繞過去。(Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.)",
+    "author": "麥可·喬丹 (Michael Jordan)",
+    "work": "籃球哲學",
+    "type": "運動精神",
+    "tags": ["克服困難", "解決問題", "創造力", "堅持不懈", "創意思考"]
+  },
+  {
+    "id": "sa008",
+    "quote": "如果你害怕失敗，那你就不配成功。(If you're afraid to fail, then you're probably going to fail.)",
+    "author": "柯比·布萊恩 (Kobe Bryant)",
+    "work": "曼巴精神",
+    "type": "運動精神",
+    "tags": ["不怕失敗", "勇氣", "成功心態", "自信", "警惕反思"]
+  },
+  {
+    "id": "sa009",
+    "quote": "每天都努力讓自己變得更好一點，最終，你會變得非常好。(Work hard every day to get a little better, and eventually, you'll get a lot better.)",
+    "author": "約翰·伍登 (John Wooden)",
+    "work": "傳奇籃球教練",
+    "type": "運動精神",
+    "tags": ["持續進步", "積少成多", "努力", "耐心", "堅持不懈"]
+  },
+  {
+    "id": "sa010",
+    "quote": "天賦能贏得比賽，但團隊合作和智慧才能贏得總冠軍。(Talent wins games, but teamwork and intelligence win championships.)",
+    "author": "麥可·喬丹 (Michael Jordan)",
+    "work": "籃球智慧",
+    "type": "運動精神",
+    "tags": ["團隊合作", "智慧", "策略", "集體力量", "勝利"]
+  },
+  {
+    "id": "sa011",
+    "quote": "壓力是一種特權——它只降臨在那些贏得它的人身上。(Pressure is a privilege – it only comes to those who earn it.)",
+    "author": "比莉·珍·金 (Billie Jean King)",
+    "work": "網球傳奇",
+    "type": "運動精神",
+    "tags": ["壓力管理", "成就", "榮譽", "挑戰", "心態調整", "警惕反思"]
+  },
+  {
+    "id": "sa012",
+    "quote": "勝利的意志不如準備去勝利的意志重要。(The will to win is important, but the will to prepare is vital.)",
+    "author": "喬·帕特諾 (Joe Paterno)",
+    "work": "美式足球教練",
+    "type": "運動精神",
+    "tags": ["準備", "努力", "紀律", "成功基礎", "堅持不懈"]
+  },
+  {
+    "id": "sa013",
+    "quote": "我痛恨訓練的每一分鐘，但我告訴自己：『不要放棄。現在受苦，餘生像冠軍一樣活著。』(I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.')",
+    "author": "穆罕默德·阿里 (Muhammad Ali)",
+    "work": "拳擊手的毅力",
+    "type": "運動精神",
+    "tags": ["刻苦訓練", "毅力", "犧牲", "延遲滿足", "堅持不懈", "克服困難"]
+  },
+  {
+    "id": "sa014",
+    "quote": "最重要的是享受比賽，熱愛你的運動，並為之全力以赴。(The most important thing is to enjoy your life – to be happy – it’s all that matters.)",
+    "author": "羅傑·費德勒 (Roger Federer) (此句為他生活態度，但可引申至運動)",
+    "work": "網球哲學",
+    "type": "運動精神",
+    "tags": ["享受過程", "熱愛", "快樂運動", "全力以赴", "喜悅", "生命力"]
+  },
+  {
+    "id": "sa015",
+    "quote": "設定你的目標要高，並且在達到目標之前不要停止。(Set your goals high, and don't stop till you get there.)",
+    "author": "博·傑克遜 (Bo Jackson)",
+    "work": "多棲運動員",
+    "type": "運動精神",
+    "tags": ["目標設定", "雄心壯志", "堅持不懈", "不達目標不罷休", "行動力"]
+  },
+  {
+    "id": "sa016",
+    "quote": "體育不會塑造品格，它會揭示品格。(Sports do not build character. They reveal it.)",
+    "author": "海伍德·布朗 (Heywood Broun) / 約翰·伍登 (John Wooden) (多人引用)",
+    "work": "運動的意義",
+    "type": "運動精神",
+    "tags": ["品格", "人性展現", "真實自我", "運動哲學", "警惕反思", "自我探索"]
+  },
+  {
+    "id": "sa017",
+    "quote": "關鍵不在於你有多優秀，而在於你有多想變得優秀。(It's not about how good you are, it's about how good you want to be.)",
+    "author": "保羅·亞頓 (Paul Arden)",
+    "work": "廣告人，其觀點適用於競技",
+    "type": "運動精神",
+    "tags": ["渴望進步", "潛力", "動機", "成長心態", "勵志"]
+  },
+  {
+    "id": "sa018",
+    "quote": "當你感覺快要放棄的時候，記住當初是什麼讓你堅持到這裡。(When you feel like quitting, think about why you started.)",
+    "author": "不詳 (常見的勵志格言)",
+    "work": "堅持的動力",
+    "type": "運動精神",
+    "tags": ["不忘初心", "堅持的理由", "克服困難", "毅力", "人生指引"]
+  },
+  {
+    "id": "sa019",
+    "quote": "比賽的樂趣在於競爭，在於做到最好，而不是僅僅為了獲勝。(The joy of the game is in the competition, in doing your best, not just in winning.)",
+    "author": "不詳 (體育精神的核心)",
+    "work": "奧林匹克精神",
+    "type": "運動精神",
+    "tags": ["享受競爭", "盡力而為", "過程重於結果", "體育精神", "喜悅"]
+  },
+  {
+    "id": "sa020",
+    "quote": "永遠不要低估一顆冠軍的心。(Never underestimate the heart of a champion.)",
+    "author": "魯迪·湯加諾維奇 (Rudy Tomjanovich)",
+    "work": "籃球教練 (火箭隊二連霸時名言)",
+    "type": "運動精神",
+    "tags": ["冠軍之心", "意志力", "永不放棄", "信念", "奇蹟"]
+  },
+  {
+    "id": "sa021",
+    "quote": "最大的敵人是你自己。(The biggest opponent you'll ever find is yourself.)",
+    "author": "洛基·巴爾博亞 (Rocky Balboa) (電影角色)",
+    "work": "《洛基》系列電影",
+    "type": "運動精神",
+    "tags": ["自我挑戰", "內心鬥爭", "克服心魔", "自我超越", "警惕反思", "自我探索"]
+  },
+  {
+    "id": "sa022",
+    "quote": "勝利不是一切，但渴望勝利是一切。(Winning isn't everything, but wanting to win is.)",
+    "author": "文斯·隆巴迪 (Vince Lombardi)",
+    "work": "美式足球教練",
+    "type": "運動精神",
+    "tags": ["求勝慾", "動機", "競爭心態", "追求卓越", "勵志"]
+  },
+  {
+    "id": "sa023",
+    "quote": "紀錄就是用來被打破的。(Records are made to be broken.)",
+    "author": "不詳 (體育界常用語)",
+    "work": "挑戰極限",
+    "type": "運動精神",
+    "tags": ["挑戰極限", "突破", "超越前人", "進步", "創意思考"]
+  },
+  {
+    "id": "sa024",
+    "quote": "尊重所有對手，但不要懼怕任何對手。(Respect all, fear none.)",
+    "author": "約翰·伍登 (John Wooden)",
+    "work": "籃球教練",
+    "type": "運動精神",
+    "tags": ["尊重對手", "無所畏懼", "自信", "競爭心態", "處世"]
+  },
+  {
+    "id": "sa025",
+    "quote": "如果你想贏，就去做普通人不想做的事。(If you want to win, do the ordinary things better than anyone else.)",
+    "author": "查克·諾爾 (Chuck Noll)",
+    "work": "美式足球教練 (強調基礎和細節)",
+    "type": "運動精神",
+    "tags": ["注重細節", "基本功", "精益求精", "努力", "堅持不懈"]
+  },
+  {
+    "id": "sa026",
+    "quote": "在逆境中，有些會崩潰，有些會打破紀錄。(Adversity causes some men to break; others to break records.)",
+    "author": "威廉·亞瑟·沃德 (William Arthur Ward)",
+    "work": "作家",
+    "type": "運動精神",
+    "tags": ["逆境成才", "壓力轉化", "潛能爆發", "挑戰極限", "克服困難", "人生指引"]
+  },
+  {
+    "id": "sa027",
+    "quote": "真正的運動家精神，不是在勝利時歡呼，而是在失敗時保持風度。(True sportsmanship is not in celebrating a win, but in how you handle a loss.)",
+    "author": "不詳 (體育倫理觀點)",
+    "work": "體育道德",
+    "type": "運動精神",
+    "tags": ["運動家精神", "風度", "尊重失敗", "品格", "警惕反思", "處世"]
+  },
+  {
+    "id": "sa028",
+    "quote": "每一次訓練都是在為那個你可能永遠不會知道何時到來的關鍵時刻做準備。(Every practice is a preparation for that one moment you may never know when it will come.)",
+    "author": "不詳 (訓練的意義)",
+    "work": "運動員心態",
+    "type": "運動精神",
+    "tags": ["日常訓練", "準備", "機會", "堅持", "耐心", "珍惜當下"]
+  },
+  {
+    "id": "sa029",
+    "quote": "運動的魅力在於它的不確定性，你永遠不知道下一秒會發生什麼。(The beauty of sport is its uncertainty; you never know what's going to happen next.)",
+    "author": "不詳 (觀賽的樂趣)",
+    "work": "體育評論",
+    "type": "運動精神",
+    "tags": ["不確定性", "懸念", "競技魅力", "享受過程", "喜悅", "生命力"]
+  },
+  {
+    "id": "sa030",
+    "quote": "比別人多努力一點，多堅持一會，也許就能創造不同。(Push yourself again and again. Don't give an inch until the final buzzer sounds.)",
+    "author": "拉里·伯德 (Larry Bird)",
+    "work": "籃球傳奇",
+    "type": "運動精神",
+    "tags": ["多一點努力", "堅持到最後", "細微差別", "極限挑戰", "行動力", "勵志"]
+  }
+]

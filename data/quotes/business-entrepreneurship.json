@@ -1,0 +1,242 @@
+[
+  {
+    "id": "be001",
+    "quote": "價格是你付出的，價值是你得到的。(Price is what you pay. Value is what you get.)",
+    "author": "華倫·巴菲特 (Warren Buffett)",
+    "work": "投資理念",
+    "type": "商業管理",
+    "tags": ["價值投資", "價格與價值", "商業洞察", "投資哲學"]
+  },
+  {
+    "id": "be002",
+    "quote": "你最好的客戶是你最大的學習來源。(Your most unhappy customers are your greatest source of learning.)",
+    "author": "比爾·蓋茲 (Bill Gates)",
+    "work": "商業經營理念",
+    "type": "商業管理",
+    "tags": ["客戶回饋", "學習", "產品改進", "客戶服務", "企業成長"]
+  },
+  {
+    "id": "be003",
+    "quote": "不要害怕放棄好的，去追求卓越的。(Don't be afraid to give up the good to go for the great.)",
+    "author": "約翰·D·洛克菲勒 (John D. Rockefeller)",
+    "work": "企業家精神",
+    "type": "商業管理",
+    "tags": ["追求卓越", "膽識", "決策", "企業家精神", "目標設定"]
+  },
+  {
+    "id": "be004",
+    "quote": "如果你不能很好地描述你正在做什麼，那麼你就不知道你在做什麼。(If you can't describe what you are doing as a process, you don't know what you're doing.)",
+    "author": "W·愛德華茲·戴明 (W. Edwards Deming)",
+    "work": "品質管理大師",
+    "type": "商業管理",
+    "tags": ["流程管理", "品質控制", "清晰度", "系統思考", "效率"]
+  },
+  {
+    "id": "be005",
+    "quote": "高層管理人員的工作不是制定偉大的計劃，而是創造一個讓偉大計劃得以產生的環境。(The job of top management is not to make great plans, but to create an environment where great plans can be made.)",
+    "author": "彼得·杜拉克 (Peter Drucker)",
+    "work": "管理學大師",
+    "type": "商業管理",
+    "tags": ["領導力", "賦能", "企業文化", "創新環境", "管理哲學"]
+  },
+  {
+    "id": "be006",
+    "quote": "成功的秘訣就是做好準備，等待機會的降臨。(The secret of success is to be ready when your opportunity comes.)",
+    "author": "班傑明·迪斯雷利 (Benjamin Disraeli)",
+    "work": "英國前首相，常被商界引用",
+    "type": "商業管理",
+    "tags": ["成功", "準備", "機會", "企業家精神", "積極主動"]
+  },
+  {
+    "id": "be007",
+    "quote": "企業家就是從懸崖上跳下去，在下墜的過程中組裝出一架飛機的人。(An entrepreneur is someone who jumps off a cliff and builds a plane on the way down.)",
+    "author": "雷德·霍夫曼 (Reid Hoffman)",
+    "work": "LinkedIn 聯合創始人",
+    "type": "商業管理",
+    "tags": ["企業家精神", "風險", "應變能力", "創造力", "創業"]
+  },
+  {
+    "id": "be008",
+    "quote": "唯一能持久的競爭優勢，是勝過競爭對手的學習能力。(The only sustainable competitive advantage is an organization's ability to learn faster than the competition.)",
+    "author": "阿里·德赫斯 (Arie de Geus)",
+    "work": "殼牌公司前高管，《學習型組織》相關論述",
+    "type": "商業管理",
+    "tags": ["學習型組織", "競爭優勢", "持續學習", "適應性", "企業發展"]
+  },
+  {
+    "id": "be009",
+    "quote": "不要只是想著賺錢，要專注於創造價值。錢會隨之而來。(Don't just focus on making money, focus on creating value. The money will follow.)",
+    "author": "不詳 (常見的商業理念)",
+    "work": "商業原則",
+    "type": "商業管理",
+    "tags": ["價值創造", "客戶中心", "長期主義", "商業模式", "盈利"]
+  },
+  {
+    "id": "be010",
+    "quote": "如果你建立了一個偉大的體驗，顧客會互相告知。口碑的力量非常強大。(If you build a great experience, customers tell each other about that. Word of mouth is very powerful.)",
+    "author": "傑夫·貝佐斯 (Jeff Bezos)",
+    "work": "亞馬遜創始人，關於客戶體驗",
+    "type": "商業管理",
+    "tags": ["客戶體驗", "口碑行銷", "客戶滿意度", "品牌建設", "亞馬遜"]
+  },
+  {
+    "id": "be011",
+    "quote": "執行力是戰略與結果之間的橋樑。(Execution is the bridge between strategy and results.)",
+    "author": "不詳 (常見的管理學觀點)",
+    "work": "管理學原則",
+    "type": "商業管理",
+    "tags": ["執行力", "戰略實施", "目標達成", "團隊管理", "效率"]
+  },
+  {
+    "id": "be012",
+    "quote": "人才是公司最重要的資產。(People are your most important asset.)",
+    "author": "理查·布蘭森 (Richard Branson)",
+    "work": "維珍集團創始人",
+    "type": "商業管理",
+    "tags": ["人才管理", "員工價值", "企業文化", "人力資源", "領導力"]
+  },
+  {
+    "id": "be013",
+    "quote": "不要害怕你的競爭對手，要害怕你的客戶。(Don't worry about your competitors, worry about your customers.)",
+    "author": "傑克·韋爾奇 (Jack Welch)",
+    "work": "通用電氣前CEO (此觀點與貝佐斯相似)",
+    "type": "商業管理",
+    "tags": ["客戶中心", "市場導向", "競爭策略", "企業經營"]
+  },
+  {
+    "id": "be014",
+    "quote": "一個好的領導者會帶領人們去他們想去的地方。一個偉大的領導者會帶領人們去他們不一定想去但應該去的地方。(A good leader takes people where they want to go. A great leader takes people where they don't necessarily want to go, but ought to be.)",
+    "author": "羅莎琳·卡特 (Rosalynn Carter)",
+    "work": "美國前第一夫人，關於領導力",
+    "type": "商業管理",
+    "tags": ["領導力", "願景", "變革管理", "影響力", "挑戰現狀"]
+  },
+  {
+    "id": "be015",
+    "quote": "當你停止成長時，你就開始死亡。(When you stop growing you start dying.)",
+    "author": "威廉·柏洛茲 (William S. Burroughs)",
+    "work": "作家，常被引用於商業和個人成長",
+    "type": "商業管理",
+    "tags": ["持續成長", "學習", "企業生命週期", "危機意識", "適應性"]
+  },
+  {
+    "id": "be016",
+    "quote": "機會不會主動上門，你必須去創造它們。(Opportunities don't happen, you create them.)",
+    "author": "克里斯·格羅塞 (Chris Grosser)",
+    "work": "企業家",
+    "type": "商業管理",
+    "tags": ["創造機會", "主動性", "企業家精神", "行動力", "開拓市場"]
+  },
+  {
+    "id": "be017",
+    "quote": "品牌就是當你不在房間裡時，別人對你的評價。(Your brand is what other people say about you when you're not in the room.)",
+    "author": "傑夫·貝佐斯 (Jeff Bezos)",
+    "work": "亞馬遜創始人，關於品牌定義",
+    "type": "商業管理",
+    "tags": ["品牌建設", "聲譽管理", "客戶認知", "市場定位", "亞馬遜"]
+  },
+  {
+    "id": "be018",
+    "quote": "如果你不為自己的夢想而努力，就會有人僱用你為他們的夢想而努力。(If you don't build your dream, someone else will hire you to help them build theirs.)",
+    "author": "迪拉吉·潘迪 (Dhirubhai Ambani) / 托尼·加斯金斯 (Tony Gaskins)",
+    "work": "此觀點被多人提及",
+    "type": "商業管理",
+    "tags": ["夢想", "創業", "自主性", "職業選擇", "勵志"]
+  },
+  {
+    "id": "be019",
+    "quote": "專注於你所能控制的，其餘的順其自然。(Focus on what you can control, and let the rest go.)",
+    "author": "不詳 (常見的應對壓力和不確定性的建議)",
+    "work": "管理與心理學",
+    "type": "商業管理",
+    "tags": ["專注", "壓力管理", "控制範圍", "心態調整", "決策"]
+  },
+  {
+    "id": "be020",
+    "quote": "在客戶開口之前，就先滿足他們的需求。(Anticipate the needs of your customers before they even ask.)",
+    "author": "不詳 (客戶服務的黃金法則之一)",
+    "work": "客戶服務原則",
+    "type": "商業管理",
+    "tags": ["客戶服務", "預期管理", "主動性", "客戶滿意度", "洞察力"]
+  },
+  {
+    "id": "be021",
+    "quote": "數字不會說謊，但說謊者會使用數字。(Numbers don't lie, but liars use numbers.)",
+    "author": "馬克·吐溫 (Mark Twain) (類似說法)",
+    "work": "關於數據的批判性思考",
+    "type": "商業管理",
+    "tags": ["數據分析", "批判性思維", "商業決策", "誠信", "信息甄別"]
+  },
+  {
+    "id": "be022",
+    "quote": "現金為王。(Cash is king.)",
+    "author": "不詳 (商界廣泛流傳的格言)",
+    "work": "財務管理原則",
+    "type": "商業管理",
+    "tags": ["現金流", "財務管理", "企業生存", "風險控制", "盈利能力"]
+  },
+  {
+    "id": "be023",
+    "quote": "企業文化會把戰略當早餐吃掉。(Culture eats strategy for breakfast.)",
+    "author": "彼得·杜拉克 (Peter Drucker) (或被歸功於其他人)",
+    "work": "關於企業文化重要性的論述",
+    "type": "商業管理",
+    "tags": ["企業文化", "戰略執行", "組織行為", "團隊凝聚力", "管理哲學"]
+  },
+  {
+    "id": "be024",
+    "quote": "如果你想成為一名企業家，最重要的是專注。你必須全神貫注於你的事業。(If you want to be an entrepreneur, the most important thing is to be focused. You have to be obsessed with your business.)",
+    "author": "馬克·庫班 (Mark Cuban)",
+    "work": "企業家，達拉斯獨行俠隊老闆",
+    "type": "商業管理",
+    "tags": ["專注", "企業家精神", "熱情", "全身心投入", "創業成功"]
+  },
+  {
+    "id": "be025",
+    "quote": "今天很殘酷，明天更殘酷，後天會很美好，但絕大多數人都死在明天晚上。(Today is cruel. Tomorrow is crueler. And the day after tomorrow is beautiful. But most people die tomorrow evening.)",
+    "author": "馬雲 (Jack Ma)",
+    "work": "關於創業的艱辛和堅持",
+    "type": "商業管理",
+    "tags": ["堅持", "創業艱辛", "毅力", "克服困難", "阿里巴巴"]
+  },
+  {
+    "id": "be026",
+    "quote": "一個好的計劃，今天就去執行，遠勝過一個完美的計劃，無限期地拖延。(A good plan violently executed now is better than a perfect plan executed next week.)",
+    "author": "喬治·巴頓 (George S. Patton)",
+    "work": "二戰將軍，其執行力理念被商界引用",
+    "type": "商業管理",
+    "tags": ["執行力", "行動優先", "效率", "決策", "避免完美主義"]
+  },
+  {
+    "id": "be027",
+    "quote": "不要追求成功，去追求卓越，成功自然會跟隨你。(Don't aim for success if you want it; just do what you love and believe in, and it will come naturally.)",
+    "author": "大衛·弗羅斯特 (David Frost) (類似理念，原文更強調熱愛)",
+    "work": "成功觀",
+    "type": "商業管理",
+    "tags": ["追求卓越", "熱愛", "內在驅動", "價值觀", "成功副產品"]
+  },
+  {
+    "id": "be028",
+    "quote": "衡量領導力的標準不是你手下有多少人，而是你培養了多少領導者。(The measure of a leader is not how many followers you have, but how many leaders you create.)",
+    "author": "湯姆·彼得斯 (Tom Peters)",
+    "work": "管理學家",
+    "type": "商業管理",
+    "tags": ["領導力培養", "賦能", "人才發展", "團隊建設", "傳承"]
+  },
+  {
+    "id": "be029",
+    "quote": "如果你不願意承擔風險，你就無法成長。如果你無法成長，你就無法成為最好的自己。如果你無法成為最好的自己，你就無法快樂。如果你無法快樂，那麼其他一切還有什麼意義呢？(If you are not willing to risk the unusual, you will have to settle for the ordinary.)",
+    "author": "吉姆·羅恩 (Jim Rohn)",
+    "work": "勵志演說家 (這句話有多個版本，此為其中一個)",
+    "type": "商業管理",
+    "tags": ["風險承擔", "成長", "挑戰常規", "個人發展", "企業家精神"]
+  },
+  {
+    "id": "be030",
+    "quote": "偉大的公司始於偉大的產品。(Great companies start because the founders want to change the world... not make a fast buck.)",
+    "author": "蓋伊·川崎 (Guy Kawasaki)",
+    "work": "前蘋果傳播長，創業家 (此處引用的是其另一種常見觀點，強調產品優先)",
+    "type": "商業管理",
+    "tags": ["產品為王", "用戶價值", "使命驅動", "創業初心", "長期主義"]
+  }
+]

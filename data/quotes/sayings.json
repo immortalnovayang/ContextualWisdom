@@ -1,0 +1,242 @@
+[
+  {
+    "id": "sy001",
+    "quote": "行動勝於空談。(Actions speak louder than words.)",
+    "author": null,
+    "work": "英國諺語",
+    "type": "諺語",
+    "tags": ["行動力", "實踐", "言行一致", "重要性", "警惕反思"]
+  },
+  {
+    "id": "sy002",
+    "quote": "熟能生巧。(Practice makes perfect.)",
+    "author": null,
+    "work": "英國諺語",
+    "type": "諺語",
+    "tags": ["練習", "精通", "技能提升", "堅持不懈", "努力"]
+  },
+  {
+    "id": "sy003",
+    "quote": "條條大路通羅馬。(All roads lead to Rome.)",
+    "author": null,
+    "work": "歐洲諺語",
+    "type": "諺語",
+    "tags": ["多種途徑", "方法多樣", "目標一致", "人生指引", "創意思考"]
+  },
+  {
+    "id": "sy004",
+    "quote": "早起的鳥兒有蟲吃。(The early bird catches the worm.)",
+    "author": null,
+    "work": "英國諺語",
+    "type": "諺語",
+    "tags": ["勤奮", "把握先機", "積極主動", "機會", "行動力"]
+  },
+  {
+    "id": "sy005",
+    "quote": "有備無患。(Forewarned is forearmed.)",
+    "author": null,
+    "work": "拉丁諺語",
+    "type": "諺語",
+    "tags": ["未雨綢繆", "準備充分", "預防", "風險管理", "警惕反思"]
+  },
+  {
+    "id": "sy006",
+    "quote": "眼見為實。(Seeing is believing.)",
+    "author": null,
+    "work": "英國諺語",
+    "type": "諺語",
+    "tags": ["親身經歷", "事實證據", "懷疑精神", "觀察", "警惕反思"]
+  },
+  {
+    "id": "sy007",
+    "quote": "滴水穿石。(Constant dripping wears away a stone.)",
+    "author": null,
+    "work": "拉丁/中國諺語",
+    "type": "諺語",
+    "tags": ["持之以恆", "毅力", "積少成多", "堅持不懈", "克服困難"]
+  },
+  {
+    "id": "sy008",
+    "quote": "入鄉隨俗。(When in Rome, do as the Romans do.)",
+    "author": null,
+    "work": "歐洲諺語",
+    "type": "諺語",
+    "tags": ["適應環境", "尊重文化", "靈活性", "人際交往", "處世"]
+  },
+  {
+    "id": "sy009",
+    "quote": "沉默是金。(Silence is golden.)",
+    "author": null,
+    "work": "多國諺語",
+    "type": "諺語",
+    "tags": ["謹言慎行", "適時沉默", "智慧", "溝通策略", "警惕反思", "處世"]
+  },
+  {
+    "id": "sy010",
+    "quote": "欲速則不達。(Haste makes waste.)",
+    "author": null,
+    "work": "多國諺語 (與 fq025 相似)",
+    "type": "諺語",
+    "tags": ["穩健", "耐心", "循序漸進", "避免急躁", "警惕反思"]
+  },
+  {
+    "id": "sy011",
+    "quote": "患難見真情。(A friend in need is a friend indeed.)",
+    "author": null,
+    "work": "英國諺語",
+    "type": "諺語",
+    "tags": ["真朋友", "困境考驗", "友誼", "人際關係", "尋求慰藉", "喜悅"]
+  },
+  {
+    "id": "sy012",
+    "quote": "知足者常樂。(Enough is as good as a feast. / Happiness consists in contentment.)",
+    "author": null,
+    "work": "多國諺語",
+    "type": "諺語",
+    "tags": ["知足", " contentment", "心態", "幸福感", "人生哲理", "尋求慰藉", "喜悅"]
+  },
+  {
+    "id": "sy013",
+    "quote": "團結就是力量。(Unity is strength.)",
+    "author": null,
+    "work": "多國諺語",
+    "type": "諺語",
+    "tags": ["團隊合作", "集體力量", "協作", "凝聚力", "行動力"]
+  },
+  {
+    "id": "sy014",
+    "quote": "時間治癒一切創傷。(Time heals all wounds.)",
+    "author": null,
+    "work": "英國諺語",
+    "type": "諺語",
+    "tags": ["時間療癒", "傷痛恢復", "耐心等待", "自然法則", "尋求慰藉", "生命力"]
+  },
+  {
+    "id": "sy015",
+    "quote": "一鳥在手勝過雙鳥在林。(A bird in the hand is worth two in the bush.)",
+    "author": null,
+    "work": "英國諺語",
+    "type": "諺語",
+    "tags": ["珍惜擁有", "現實主義", "滿足現狀", "風險規避", "警惕反思", "珍惜當下"]
+  },
+  {
+    "id": "sy016",
+    "quote": "習慣是第二天性。(Habit is second nature.)",
+    "author": null,
+    "work": "拉丁諺語",
+    "type": "諺語",
+    "tags": ["習慣的力量", "潛移默化", "行為模式", "自我塑造", "警惕反思"]
+  },
+  {
+    "id": "sy017",
+    "quote": "自助者天助。(Heaven helps those who help themselves.)",
+    "author": null,
+    "work": "多國諺語 (與 fq027 相似)",
+    "type": "諺語",
+    "tags": ["自力更生", "主動性", "努力", "信念", "行動力"]
+  },
+  {
+    "id": "sy018",
+    "quote": "知識的開端是發現我們所不知的事物。(The beginning of knowledge is the discovery of something we do not understand.)",
+    "author": "法蘭克·赫伯特 (Frank Herbert) (雖為作家，此句有諺語的普遍性)",
+    "work": "《沙丘》",
+    "type": "諺語",
+    "tags": ["求知慾", "承認無知", "學習起點", "探索精神", "人生指引", "自我探索"]
+  },
+  {
+    "id": "sy019",
+    "quote": "種瓜得瓜，種豆得豆。(As you sow, so shall you reap.)",
+    "author": null,
+    "work": "多國諺語 (與 pv001 相似)",
+    "type": "諺語",
+    "tags": ["因果報應", "行為與結果", "付出與收穫", "警惕反思", "處世"]
+  },
+  {
+    "id": "sy020",
+    "quote": "凡事豫則立，不豫則廢。(Success depends on previous preparation, and without such preparation there is sure to be failure.)",
+    "author": null,
+    "work": "中國諺語 (源自《禮記·中庸》)",
+    "type": "諺語",
+    "tags": ["事前準備", "計劃性", "成功要素", "未雨綢繆", "警惕反思"]
+  },
+  {
+    "id": "sy021",
+    "quote": "授人以魚不如授人以漁。(Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.)",
+    "author": null,
+    "work": "中國諺語 (或源自其他文化)",
+    "type": "諺語",
+    "tags": ["賦能", "傳授方法", "長遠利益", "教育", "人生指引", "創意思考"]
+  },
+  {
+    "id": "sy022",
+    "quote": "不入虎穴，焉得虎子。(Nothing venture, nothing gain. / You can't make an omelette without breaking eggs.)",
+    "author": null,
+    "work": "中國諺語",
+    "type": "諺語",
+    "tags": ["勇於冒險", "不畏艱險", "付出與回報", "挑戰", "行動力", "克服困難"]
+  },
+  {
+    "id": "sy023",
+    "quote": "少壯不努力，老大徒傷悲。(If you neglect your studies when you are young, what an old man you will be!)",
+    "author": null,
+    "work": "中國諺語 (源自漢樂府《長歌行》)",
+    "type": "諺語",
+    "tags": ["珍惜韶華", "及時努力", "莫負青春", "人生後悔", "警惕反思", "人生指引"]
+  },
+  {
+    "id": "sy024",
+    "quote": "勿以惡小而為之，勿以善小而不為。(Do not do an evil act just because it is trivial; do not neglect a good act just because it is small.)",
+    "author": "劉備 (Liu Bei)",
+    "work": "《三國志》",
+    "type": "諺語",
+    "tags": ["積善成德", "防微杜漸", "道德修養", "行為準則", "警惕反思", "處世"]
+  },
+  {
+    "id": "sy025",
+    "quote": "十年樹木，百年樹人。(It takes ten years to nurture a tree, but a hundred years to cultivate people.)",
+    "author": null,
+    "work": "中國諺語 (源自《管子·權修》)",
+    "type": "諺語",
+    "tags": ["人才培養", "教育艱辛", "長期投入", "百年大計", "人生指引"]
+  },
+  {
+    "id": "sy026",
+    "quote": "天網恢恢，疏而不漏。(Heaven's net is vast, but it misses nothing. / The mills of God grind slowly, yet they grind exceeding small.)",
+    "author": null,
+    "work": "中國諺語 (源自《老子》)",
+    "type": "諺語",
+    "tags": ["天道公允", "善惡有報", "正義", "因果循環", "警惕反思", "名聲"]
+  },
+  {
+    "id": "sy027",
+    "quote": "書中自有黃金屋，書中自有顏如玉。(Within books, one can find houses of gold; within books, one can find ladies as fair as jade.)",
+    "author": "宋真宗 (Emperor Zhenzong of Song) (《勸學文》)",
+    "work": "中國古代勸學諺語",
+    "type": "諺語",
+    "tags": ["讀書益處", "知識改變命運", "功名利祿 (古代觀點)", "學習動力", "人生指引"]
+  },
+  {
+    "id": "sy028",
+    "quote": "靜水流深。(Still waters run deep.)",
+    "author": null,
+    "work": "拉丁諺語",
+    "type": "諺語",
+    "tags": ["內斂", "深藏不露", "智慧沉靜", "觀察力", "警惕反思", "處世"]
+  },
+  {
+    "id": "sy029",
+    "quote": "覆水難收。(It is no use crying over spilled milk. / What's done is done.)",
+    "author": null,
+    "work": "中國諺語",
+    "type": "諺語",
+    "tags": ["無法挽回", "接受過去", "木已成舟", "警惕反思", "尋求慰藉"]
+  },
+  {
+    "id": "sy030",
+    "quote": "萬事起頭難。(Every beginning is hard.)",
+    "author": null,
+    "work": "多國諺語",
+    "type": "諺語",
+    "tags": ["開始的困難", "勇於開始", "第一步", "克服惰性", "行動力", "堅持不懈"]
+  }
+]

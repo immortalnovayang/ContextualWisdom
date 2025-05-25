@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ti001",
+    "quote": "創新區分了領導者和追隨者。(Innovation distinguishes between a leader and a follower.)",
+    "author": "史蒂夫·賈伯斯 (Steve Jobs)",
+    "work": "《商業周刊》訪談 (BusinessWeek Interview, 2004)",
+    "type": "科技創新",
+    "tags": ["創新", "領導力", "科技", "願景"]
+  },
+  {
+    "id": "ti002",
+    "quote": "我認為普通人有可能選擇成為不平凡的人。(I think it is possible for ordinary people to choose to be extraordinary.)",
+    "author": "伊隆·馬斯克 (Elon Musk)",
+    "work": "公開演講",
+    "type": "科技創新",
+    "tags": ["勵志", "潛能", "選擇", "創業", "目標"]
+  },
+  {
+    "id": "ti003",
+    "quote": "求知若飢，虛心若愚。(Stay hungry. Stay foolish.)",
+    "author": "史蒂夫·賈伯斯 (Steve Jobs)",
+    "work": "史丹佛大學畢業典禮演講 (Stanford Commencement Address, 2005)",
+    "type": "科技創新",
+    "tags": ["學習", "謙遜", "創新", "人生態度"]
+  },
+  {
+    "id": "ti004",
+    "quote": "我們正處於一個新時代的開端，這個時代將重新定義人之所以為人的意義。(We are at the beginning of a new era, an era that will redefine what it means to be human.)",
+    "author": "李開復 (Kai-Fu Lee)",
+    "work": "關於人工智能的論述",
+    "type": "科技創新",
+    "tags": ["人工智能", "未來", "科技倫理", "變革"]
+  },
+  {
+    "id": "ti005",
+    "quote": "如果你想造一艘船，不要抓一批人來蒐集材料，不要指揮他們做這個做那個，你只要教他們如何渴望浩瀚的大海就行了。(If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.)",
+    "author": "安托萬·德·聖修伯里 (Antoine de Saint-Exupéry)",
+    "work": "《小王子》作者，常用於描述願景驅動",
+    "type": "科技創新",
+    "tags": ["願景", "領導力", "動機", "團隊合作", "啟發"]
+  },
+  {
+    "id": "ti006",
+    "quote": "失敗是一個選項。如果事情沒有失敗，那就表示你還不夠創新。(Failure is an option here. If things are not failing, you are not innovating enough.)",
+    "author": "伊隆·馬斯克 (Elon Musk)",
+    "work": "SpaceX相關言論",
+    "type": "科技創新",
+    "tags": ["失敗", "創新", "冒險", "創業", "試錯"]
+  },
+  {
+    "id": "ti007",
+    "quote": "未來已來，只是尚未均勻分佈。(The future is already here – it's just not evenly distributed.)",
+    "author": "威廉·吉布森 (William Gibson)",
+    "work": "科幻作家，常被科技界引用",
+    "type": "科技創新",
+    "tags": ["未來趨勢", "科技採納", "社會觀察", "不平等"]
+  },
+  {
+    "id": "ti008",
+    "quote": "專注於訊號，忽略噪音。(Focus on signal over noise.)",
+    "author": "伊隆·馬斯克 (Elon Musk)",
+    "work": "關於資訊處理和決策的建議",
+    "type": "科技創新",
+    "tags": ["專注", "決策", "資訊過載", "效率", "第一性原理"]
+  },
+  {
+    "id": "ti009",
+    "quote": "代碼就是法律。(Code is law.)",
+    "author": "勞倫斯·萊斯格 (Lawrence Lessig)",
+    "work": "哈佛大學法學教授，討論網路治理",
+    "type": "科技創新",
+    "tags": ["網路治理", "代碼", "規則", "科技倫理", "數位社會"]
+  },
+  {
+    "id": "ti010",
+    "quote": "我們高估了未來兩年內將發生的變化，卻低估了未來十年內將發生的變化。不要讓自己陷入無所作為的境地。(We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten. Don't let yourself be lulled into inaction.)",
+    "author": "比爾·蓋茲 (Bill Gates)",
+    "work": "《未來之路》 (The Road Ahead)",
+    "type": "科技創新",
+    "tags": ["未來預測", "長期思維", "科技發展", "行動力", "變革"]
+  },
+  {
+    "id": "ti011",
+    "quote": "簡單可能比複雜更難：你必須努力工作，讓你的思想變得清晰，才能使它變得簡單。但最終這是值得的，因為一旦你做到了，你就能移山倒海。(Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.)",
+    "author": "史蒂夫·賈伯斯 (Steve Jobs)",
+    "work": "《商業周刊》訪談 (BusinessWeek Interview, 1998)",
+    "type": "科技創新",
+    "tags": ["簡潔", "設計哲學", "深度思考", "努力", "影響力"]
+  },
+  {
+    "id": "ti012",
+    "quote": "唯一不變的就是變化本身。(The only constant is change.)",
+    "author": "赫拉克利特 (Heraclitus)",
+    "work": "古希臘哲學家，常被現代科技和商業引用以強調適應性",
+    "type": "科技創新",
+    "tags": ["變化", "適應性", "敏捷", "商業環境", "哲理"]
+  },
+  {
+    "id": "ti013",
+    "quote": "客戶不會告訴你他們想要什麼，他們只會告訴你他們的問題是什麼。(Customers don't tell you what they want, they tell you what their problems are.)",
+    "author": "雷德·霍夫曼 (Reid Hoffman)",
+    "work": "LinkedIn 聯合創始人，關於產品開發",
+    "type": "科技創新",
+    "tags": ["用戶需求", "產品開發", "解決問題", "市場洞察", "創業"]
+  },
+  {
+    "id": "ti014",
+    "quote": "如果你做的每件事都需要獲得所有人的同意，那麼你可能做不出任何真正創新的事情。(If you do everything that everyone else does in business, you're going to lose. The only way to really be ahead is to 'be different'.)",
+    "author": "拉里·埃里森 (Larry Ellison)",
+    "work": "Oracle 創始人 (這句話的英文原文更強調差異化，中文翻譯稍有不同，但意境相似)",
+    "type": "科技創新",
+    "tags": ["創新", "差異化", "決策", "領導力", "膽識"]
+  },
+  {
+    "id": "ti015",
+    "quote": "最好的預測未來方法就是去創造未來。(The best way to predict the future is to create it.)",
+    "author": "彼得·杜拉克 (Peter Drucker) / 亞伯拉罕·林肯 (Abraham Lincoln)",
+    "work": "這句話被歸功於多人，但其精神與科技創新高度契合",
+    "type": "科技創新",
+    "tags": ["創造未來", "行動力", "主動性", "願景", "勵志"]
+  }, 
+  {
+    "id": "ti016",
+    "quote": "如果你不願意擁抱變化，那麼等待你的只有被淘汰。(If you don't embrace change, you're going to be left behind.)",
+    "author": "安迪·葛洛夫 (Andy Grove)",
+    "work": "英特爾前CEO，《只有偏執狂才能生存》作者",
+    "type": "科技創新",
+    "tags": ["變化", "適應性", "危機意識", "企業管理", "領導力"]
+  },
+  {
+    "id": "ti017",
+    "quote": "我們之所以在這裡，是要在宇宙中留下印記。不然，何必來這一遭呢？(We're here to put a dent in the universe. Otherwise why else even be here?)",
+    "author": "史蒂夫·賈伯斯 (Steve Jobs)",
+    "work": "早期蘋果公司內部會議",
+    "type": "科技創新",
+    "tags": ["使命感", "影響力", "願景", "抱負", "蘋果文化"]
+  },
+  {
+    "id": "ti018",
+    "quote": "對我來說，重要的是我們正在做的事情是否能夠真正地改善人們的生活。(What's important to me is that we're doing things that will actually improve people's lives.)",
+    "author": "拉里·佩奇 (Larry Page)",
+    "work": "Google 聯合創始人",
+    "type": "科技創新",
+    "tags": ["用戶價值", "使命", "Google文化", "社會影響", "產品理念"]
+  },
+  {
+    "id": "ti019",
+    "quote": "發明就是將金錢轉化為知識的過程，創新則是將知識轉化為金錢的過程。(Invention is the conversion of cash into ideas. Innovation is the conversion of ideas into cash.)",
+    "author": "不詳 (常被引用於創新管理領域)",
+    "work": "管理學概念",
+    "type": "科技創新",
+    "tags": ["發明", "創新", "商業化", "知識轉化", "價值創造"]
+  },
+  {
+    "id": "ti020",
+    "quote": "人工智慧是我們這個時代最重要的技術之一，它有潛力解決人類面臨的一些最大挑戰。(AI is one of the most important things humanity is working on. It is more profound than, I dunno, electricity or fire.)",
+    "author": "桑達爾·皮查伊 (Sundar Pichai)",
+    "work": "Google CEO",
+    "type": "科技創新",
+    "tags": ["人工智能", "未來科技", "影響力", "挑戰", "Google"]
+  },
+  {
+    "id": "ti021",
+    "quote": "如果你想取得非凡的成就，就不要模仿別人。(If you want to achieve something great, stop asking for permission.)",
+    "author": "不詳 (常被創業圈引用，原文更強調無需許可)",
+    "work": "創業精神",
+    "type": "科技創新",
+    "tags": ["獨特性", "創業", "膽識", "行動力", "打破常規"]
+  },
+  {
+    "id": "ti022",
+    "quote": "軟體正在吞噬世界。(Software is eating the world.)",
+    "author": "馬克·安德森 (Marc Andreessen)",
+    "work": "網景創始人，知名投資人，2011年《華爾街日報》文章標題",
+    "type": "科技創新",
+    "tags": ["軟體", "數位轉型", "科技趨勢", "產業變革", "顛覆"]
+  },
+  {
+    "id": "ti023",
+    "quote": "我們需要的是不斷學習、不斷進化，並且敢於在未知中探索。(We need to be constantly learning, constantly evolving, and comfortable with a lot of unknown.)",
+    "author": "薩提亞·納德拉 (Satya Nadella)",
+    "work": "微軟CEO，關於企業文化轉型",
+    "type": "科技創新",
+    "tags": ["學習文化", "成長心態", "適應變化", "未知探索", "微軟"]
+  },
+  {
+    "id": "ti024",
+    "quote": "我對『不可能』這個詞的理解是，還沒有人真正去嘗試過。(My definition of 'impossible' is that no one has seriously tried it yet.)",
+    "author": "黃仁勳 (Jensen Huang)",
+    "work": "NVIDIA 創始人兼CEO",
+    "type": "科技創新",
+    "tags": ["挑戰不可能", "決心", "NVIDIA", "GPU", "人工智能硬體"]
+  },
+  {
+    "id": "ti025",
+    "quote": "如果你給人們提供工具，讓他們能夠創造和分享，那麼奇蹟就會發生。(If you give people tools, and they use their natural abilities and their curiosity, they will develop things in ways that will surprise you very much.)",
+    "author": "比爾·蓋茲 (Bill Gates)",
+    "work": "關於賦能和平台的思考",
+    "type": "科技創新",
+    "tags": ["工具賦能", "創造力", "平台效應", "使用者生成內容", "好奇心"]
+  },
+  {
+    "id": "ti026",
+    "quote": "不要害怕追求那些看起來瘋狂的想法，因為它們往往能帶來最大的突破。(Don't be afraid to pursue ideas that seem crazy, because those are often the ones that lead to the biggest breakthroughs.)",
+    "author": "謝爾蓋·布林 (Sergey Brin)",
+    "work": "Google 聯合創始人",
+    "type": "科技創新",
+    "tags": ["瘋狂想法", "突破性創新", "Google X", "實驗精神", "膽識"]
+  },
+  {
+    "id": "ti027",
+    "quote": "唯一比錯誤更糟糕的事情是不從錯誤中學習。(The only thing worse than a mistake is not learning from it.)",
+    "author": "艾瑞克·萊斯 (Eric Ries)",
+    "work": "《精實創業》(The Lean Startup) 作者",
+    "type": "科技創新",
+    "tags": ["精實創業", "從錯誤中學習", "快速迭代", "驗證學習", "創業方法論"]
+  },
+  {
+    "id": "ti028",
+    "quote": "我們必須擁抱技術，並確保它為善服務，而不是相反。(We have to embrace technology and ensure it works for good, not the other way around.)",
+    "author": "提姆·庫克 (Tim Cook)",
+    "work": "蘋果CEO，常強調科技的責任與隱私",
+    "type": "科技創新",
+    "tags": ["科技倫理", "社會責任", "隱私保護", "蘋果", "科技向善"]
+  },
+  {
+    "id": "ti029",
+    "quote": "如果你想走得快，就獨自前行；如果你想走得遠，就結伴同行。(If you want to go fast, go alone. If you want to go far, go together.)",
+    "author": "非洲諺語 (African Proverb)",
+    "work": "常被科技和創業領域引用以強調團隊合作的重要性",
+    "type": "科技創新",
+    "tags": ["團隊合作", "協作", "長期發展", "創業夥伴", "集體智慧"]
+  },
+  {
+    "id": "ti030",
+    "quote": "世界是由那些『為什麼不呢？』的人推動的，而不是那些『為什麼？』的人。(The world is moved by those who ask 'Why not?' not by those who ask 'Why?')",
+    "author": "蕭伯納 (George Bernard Shaw)",
+    "work": "劇作家，其思想啟發創新者",
+    "type": "科技創新",
+    "tags": ["質疑精神", "創新思維", "打破常規", "行動力", "積極性"]
+  }
+]

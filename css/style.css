@@ -1,0 +1,640 @@
+/* css/style.css */
+
+/* --- CSS Variables - Default Light Theme (靜謐閱讀) --- */
+:root {
+    --bg-main: #F8F9FA;
+    --bg-content: #FFFFFF;
+    --bg-overlay: rgba(0,0,0,0.5); /* Overlay for modals/panels */
+
+    --text-primary: #212529;
+    --text-secondary: #6C757D;
+    --text-on-primary-brand: #FFFFFF; /* Text on primary brand color buttons */
+    --text-on-accent-green: #FFFFFF;  /* Text on accent green buttons */
+    --text-on-accent-gray: var(--brand-primary); /* Text on accent gray (e.g., tags) */
+
+    --brand-primary: #005A9C;        /* Main brand, links, key buttons */
+    --brand-primary-hover: #004085;  /* Hover for primary brand */
+    
+    --accent-green: #4CAF50;         /* Situational buttons, positive actions */
+    --accent-green-hover: #388E3C;
+    
+    --accent-gray: #E9ECEF;          /* Secondary buttons, tag backgrounds */
+    --accent-gray-hover: #DDE2E5;
+    
+    --border-color: #DEE2E6;         /* General borders */
+    --border-color-input: #CED4DA;   /* Input borders */
+    --border-focus-color: #80BDFF;   /* Input focus outline color */
+    --box-shadow-focus: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Input focus shadow */
+
+    --card-border-accent: var(--brand-primary); /* Quote card left accent */
+    --icon-color: var(--brand-primary);
+    --icon-color-hover: var(--brand-primary-hover);
+
+    --button-primary-bg: var(--brand-primary);
+    --button-primary-text: var(--text-on-primary-brand);
+    --button-primary-hover-bg: var(--brand-primary-hover);
+
+    --button-secondary-bg: var(--accent-green); /* Example: situational "View All" */
+    --button-secondary-text: var(--text-on-accent-green);
+    --button-secondary-hover-bg: var(--accent-green-hover);
+
+    --button-tertiary-bg: var(--accent-gray); /* Example: "Reset" in panel */
+    --button-tertiary-text: var(--text-primary);
+    --button-tertiary-hover-bg: var(--accent-gray-hover);
+    --button-tertiary-border: var(--border-color-input);
+
+    --danger-bg: #DC3545;
+    --danger-text: #FFFFFF;
+    --danger-hover-bg: #C82333;
+
+    --shadow-light: 0 1px 3px rgba(0,0,0,0.05);
+    --shadow-medium: 0 2px 8px rgba(0,0,0,0.08);
+    --shadow-panel: -2px 0 5px rgba(0,0,0,0.1); /* Filter panel */
+    --shadow-modal: 0 4px 15px rgba(0,0,0,0.2);  /* Modals */
+}
+
+/* --- Dark Theme Variables --- */
+body.theme-dark {
+    --bg-main: #121212;
+    --bg-content: #1E1E1E;
+    --bg-overlay: rgba(0,0,0,0.7);
+
+    --text-primary: #E0E0E0;
+    --text-secondary: #A0A0A0;
+    --text-on-primary-brand: #1E1E1E; 
+    --text-on-accent-green: #1E1E1E;
+    --text-on-accent-gray: var(--text-primary);
+
+    --brand-primary: #58A6FF; 
+    --brand-primary-hover: #80BFFF;
+    
+    --accent-green: #3FB950;  
+    --accent-green-hover: #60C070;
+    
+    --accent-gray: #303030;
+    --accent-gray-hover: #3E3E3E;
+    
+    --border-color: #444444;
+    --border-color-input: #555555;
+    --border-focus-color: var(--brand-primary); 
+    --box-shadow-focus: 0 0 0 0.2rem rgba(88, 166, 255, 0.35);
+
+    --card-border-accent: var(--brand-primary);
+    --icon-color: var(--brand-primary);
+    --icon-color-hover: var(--brand-primary-hover);
+
+    /* Button colors might need more specific overrides for dark theme */
+    --button-primary-bg: var(--brand-primary);
+    --button-primary-text: #121212; /* Dark text on bright blue */
+    --button-primary-hover-bg: var(--brand-primary-hover);
+
+    --button-secondary-bg: var(--accent-green);
+    --button-secondary-text: #121212; /* Dark text on bright green */
+    --button-secondary-hover-bg: var(--accent-green-hover);
+    
+    --button-tertiary-bg: var(--accent-gray);
+    --button-tertiary-text: var(--text-primary);
+    --button-tertiary-hover-bg: var(--accent-gray-hover);
+    --button-tertiary-border: #555555;
+
+    --danger-bg: #E57373; /* Lighter red for dark theme */
+    --danger-text: #121212;
+    --danger-hover-bg: #EF9A9A;
+
+    --shadow-light: 0 1px 3px rgba(0,0,0,0.3);
+    --shadow-medium: 0 2px 8px rgba(0,0,0,0.5);
+    --shadow-panel: -2px 0 5px rgba(0,0,0,0.4);
+    --shadow-modal: 0 4px 15px rgba(0,0,0,0.6);
+}
+
+/* --- Sepia Theme Variables --- */
+body.theme-sepia {
+    --bg-main: #FBF0D9;
+    --bg-content: #F5E5C0;
+    --bg-overlay: rgba(91,70,54,0.4); /* Brownish overlay */
+
+    --text-primary: #5B4636;
+    --text-secondary: #7A5C45;
+    --text-on-primary-brand: #F5E5C0; 
+    --text-on-accent-green: #F5E5C0;
+    --text-on-accent-gray: var(--text-primary);
+
+    --brand-primary: #7D5120; 
+    --brand-primary-hover: #5C3B17;
+    
+    --accent-green: #6A8A22;  
+    --accent-green-hover: #4B6A02;
+    
+    --accent-gray: #E0D0B0;
+    --accent-gray-hover: #D0C0A0;
+    
+    --border-color: #D0C0A0;
+    --border-color-input: #C0B090;
+    --border-focus-color: var(--brand-primary);
+    --box-shadow-focus: 0 0 0 0.2rem rgba(125, 81, 32, 0.25);
+
+    --card-border-accent: var(--brand-primary);
+    --icon-color: var(--brand-primary);
+    --icon-color-hover: var(--brand-primary-hover);
+
+    --button-primary-bg: var(--brand-primary);
+    --button-primary-text: var(--text-on-primary-brand);
+    --button-primary-hover-bg: var(--brand-primary-hover);
+
+    --button-secondary-bg: var(--accent-green);
+    --button-secondary-text: var(--text-on-accent-green);
+    --button-secondary-hover-bg: var(--accent-green-hover);
+
+    --button-tertiary-bg: var(--accent-gray);
+    --button-tertiary-text: var(--text-primary);
+    --button-tertiary-hover-bg: var(--accent-gray-hover);
+    --button-tertiary-border: var(--border-color-input);
+
+    --danger-bg: #A52A2A; /* Brownish red */
+    --danger-text: #F5E5C0;
+    --danger-hover-bg: #8B0000;
+
+    --shadow-light: 0 1px 3px rgba(91,70,54,0.1);
+    --shadow-medium: 0 2px 8px rgba(91,70,54,0.15);
+    --shadow-panel: -2px 0 5px rgba(91,70,54,0.1);
+    --shadow-modal: 0 4px 15px rgba(91,70,54,0.2);
+}
+
+
+/* --- Basic Reset & Global Styles --- */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    line-height: 1.6;
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+    padding-top: 70px; /* Space for fixed header */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth theme transition */
+}
+
+/* --- Header --- */
+header {
+    background-color: var(--bg-content);
+    padding: 10px 15px; /* Adjusted padding */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: var(--shadow-medium);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+header h1 {
+    color: var(--brand-primary);
+    font-weight: 400;
+    font-size: 1.3em; /* Adjusted for mobile */
+    margin: 0;
+    flex-grow: 1;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+header h1 .subtitle {
+    font-size: 0.75em;
+    color: var(--text-secondary);
+    font-weight: 300;
+    margin-left: 5px;
+    /* display: block; */ /* Let it wrap if needed */
+}
+@media (min-width: 400px) {
+    header h1 { font-size: 1.4em; }
+    header h1 .subtitle { display: inline; }
+}
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Reduced gap */
+}
+.icon-btn {
+    background: none;
+    border: none;
+    font-size: 1.3em; /* Adjusted icon size */
+    color: var(--icon-color);
+    cursor: pointer;
+    padding: 8px; /* Uniform padding */
+    border-radius: 50%; /* Make it circular */
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+.icon-btn:hover {
+    color: var(--icon-color-hover);
+    background-color: var(--accent-gray); /* Subtle hover background */
+}
+
+/* Theme Switcher Styles */
+.theme-switcher {
+    position: relative; /* For dropdown positioning */
+}
+.theme-dropdown {
+    position: absolute;
+    top: calc(100% + 5px); /* Position below the toggle button */
+    right: 0;
+    background-color: var(--bg-content);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-medium);
+    border-radius: 6px;
+    padding: 5px 0;
+    z-index: 1100;
+    display: none; /* Hidden by default */
+    min-width: 160px; /* Adjust as needed */
+    list-style: none;
+}
+.theme-dropdown.open {
+    display: block;
+}
+.theme-dropdown .theme-option {
+    display: flex; /* Align icon and text */
+    align-items: center;
+    gap: 8px; /* Space between icon and text */
+    width: 100%;
+    padding: 10px 15px;
+    text-align: left;
+    background: none;
+    border: none;
+    color: var(--text-primary);
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: background-color 0.2s ease;
+}
+.theme-dropdown .theme-option:hover {
+    background-color: var(--accent-gray-hover);
+}
+.theme-dropdown .theme-option.active-theme {
+    font-weight: bold;
+    color: var(--brand-primary);
+    background-color: var(--accent-gray);
+}
+.theme-dropdown .theme-option i {
+    width: 1.2em; /* Fixed width for icons */
+    text-align: center;
+    color: var(--text-secondary); /* Subtle icon color */
+}
+.theme-dropdown .theme-option.active-theme i {
+    color: var(--brand-primary);
+}
+
+
+/* --- Main Content Area --- */
+main { max-width: 1200px; margin: 0 auto; padding: 15px; }
+
+/* --- Situational Guide --- */
+.situational-guide-container {
+    background-color: var(--bg-content);
+    padding: 15px; /* Adjusted padding */
+    border-radius: 8px;
+    box-shadow: var(--shadow-medium);
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+}
+.situational-guide-container h2 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 1.15em; /* Adjusted */
+    color: var(--text-primary);
+}
+.situational-buttons-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); /* Adjusted minmax */
+    gap: 10px;
+}
+.situational-buttons-grid button {
+    padding: 10px 8px; /* Adjusted padding */
+    border: 1px solid var(--brand-primary);
+    border-radius: 6px;
+    background-color: transparent; /* Make transparent initially */
+    color: var(--brand-primary);
+    font-size: 0.9em;
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+.situational-buttons-grid button:hover,
+.situational-buttons-grid button.active {
+    background-color: var(--brand-primary);
+    color: var(--text-on-primary-brand);
+}
+.situational-actions-bar {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap; /* Allow buttons to wrap on small screens */
+    gap: 10px;
+    justify-content: center;
+}
+.situational-actions-bar button { /* General style for these buttons */
+    padding: 10px 15px;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.9em;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+.situational-actions-bar .btn-theme-secondary { /* "再來一句" specific class */
+    background-color: var(--text-secondary); /* Using text-secondary as bg */
+    color: var(--bg-content); /* Text color contrasts with its bg */
+}
+.situational-actions-bar .btn-theme-secondary:hover { opacity: 0.85; }
+
+.situational-actions-bar .btn-theme-primary { /* "查看全部" specific class */
+    background-color: var(--accent-green);
+    color: var(--text-on-accent-green);
+}
+.situational-actions-bar .btn-theme-primary:hover { background-color: var(--accent-green-hover); }
+
+
+/* --- Current Filters Display & Clear Button --- */
+.current-filters-display {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: var(--accent-gray);
+    border-radius: 4px;
+    font-size: 0.9em;
+    color: var(--text-secondary); /* Using secondary text for less emphasis */
+    transition: background-color 0.3s ease;
+}
+.current-filters-display:empty { display: none; }
+.current-filters-display span {
+    background-color: var(--brand-primary);
+    color: var(--text-on-primary-brand);
+    padding: 3px 8px;
+    border-radius: 10px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+.clear-all-btn {
+    display: block;
+    margin: 0 auto 20px auto;
+    padding: 8px 15px;
+    background-color: var(--danger-bg);
+    color: var(--danger-text);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+.clear-all-btn:hover { background-color: var(--danger-hover-bg); }
+
+/* --- Quotes Display Area --- */
+.quotes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Adjusted minmax */
+    gap: 15px; /* Adjusted gap */
+}
+.quote-card {
+    background-color: var(--bg-content);
+    border: 1px solid var(--border-color);
+    border-left: 5px solid var(--card-border-accent);
+    padding: 15px; /* Adjusted padding */
+    border-radius: 6px; /* Consistent radius */
+    box-shadow: var(--shadow-light);
+    display: flex; flex-direction: column; justify-content: space-between;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+.quote-card .quote-text { font-size: 1.1em; margin-bottom: 15px; font-style: italic; color: var(--text-primary); flex-grow: 1; }
+.quote-card .quote-author, .quote-card .quote-work { font-size: 0.85em; color: var(--text-secondary); margin-bottom: 3px; }
+.quote-card .quote-author a, .quote-card .quote-work a, .quote-card .quote-tags .tag { color: var(--brand-primary); text-decoration: none; cursor: pointer; }
+.quote-card .quote-author a:hover, .quote-card .quote-work a:hover, .quote-card .quote-tags .tag:hover { text-decoration: underline; color: var(--brand-primary-hover); }
+.quote-card .quote-meta { margin-top: 15px; font-size: 0.8em; color: var(--text-secondary); }
+.quote-card .quote-type { font-weight: bold; display: block; margin-bottom: 5px; color: var(--text-primary); }
+.quote-card .quote-tags .tag {
+    background-color: var(--accent-gray);
+    color: var(--text-on-accent-gray);
+    padding: 3px 8px;
+    border-radius: 12px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    font-size: 0.75em; /* Adjusted */
+    display: inline-block;
+    transition: background-color 0.2s ease;
+}
+.quote-card .quote-tags .tag:hover { background-color: var(--accent-gray-hover); }
+#loading-message { grid-column: 1 / -1; text-align: center; font-size: 1.1em; color: var(--text-secondary); padding: 20px; }
+
+
+/* --- Filter Panel (Off-Canvas) --- */
+.panel-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--bg-overlay);
+    z-index: 1010;
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+.panel-overlay.open { display: block; opacity: 1;}
+
+.filter-panel {
+    position: fixed;
+    top: 0;
+    right: -320px;
+    width: 300px;
+    max-width: 85%; /* Ensure it doesn't take full width on small screens */
+    height: 100%;
+    background-color: var(--bg-content);
+    z-index: 1020;
+    box-shadow: var(--shadow-panel);
+    transition: right 0.3s ease-in-out, background-color 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+.filter-panel.open { right: 0; }
+.filter-panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border-bottom: 1px solid var(--border-color);
+}
+.filter-panel-header h3 { font-size: 1.1em; color: var(--text-primary); }
+.filter-panel-content { padding: 15px; overflow-y: auto; flex-grow: 1; }
+.filter-panel-footer {
+    padding: 15px;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    gap: 10px; /* Gap between buttons */
+}
+.filter-panel-footer button { flex-grow: 1; } /* Make buttons fill space */
+
+.control-group { margin-bottom: 15px; }
+.control-group label { display: block; margin-bottom: 5px; font-weight: 500; color: var(--text-primary); }
+.control-group input[type="text"], .control-group select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--border-color-input);
+    border-radius: 4px;
+    background-color: var(--bg-content); /* Ensure input bg matches theme */
+    color: var(--text-primary); /* Ensure input text matches theme */
+    font-size: 1em;
+}
+.control-group input[type="text"]:focus, .control-group select:focus {
+    border-color: var(--border-focus-color);
+    outline: 0;
+    box-shadow: var(--box-shadow-focus);
+}
+.selected-tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px; /* Increased gap */
+    margin-bottom: 10px;
+    padding: 8px; /* Increased padding */
+    border: 1px solid var(--border-color-input);
+    border-radius: 4px;
+    min-height: 38px; 
+    background-color: var(--bg-main); /* Slightly different bg for contrast */
+}
+.selected-tags-container .tag-pill {
+    background-color: var(--brand-primary);
+    color: var(--text-on-primary-brand);
+    padding: 4px 10px; /* Adjusted padding */
+    border-radius: 15px; /* More pill-like */
+    font-size: 0.85em;
+    display: flex;
+    align-items: center;
+}
+.selected-tags-container .tag-pill .remove-tag {
+    margin-left: 6px; /* Space before x */
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.1em; /* Slightly larger x */
+    line-height: 1;
+    opacity: 0.7;
+}
+.selected-tags-container .tag-pill .remove-tag:hover { opacity: 1; }
+
+/* --- Tag Selection Modal --- */
+.modal { /* Used for Tag Selection */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1030;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    /* Overlay is separate, already styled as .panel-overlay */
+}
+.modal.open { display: flex; }
+.modal-content {
+    background-color: var(--bg-content);
+    padding: 0;
+    border-radius: 8px;
+    box-shadow: var(--shadow-modal);
+    width: 90%;
+    max-width: 420px; /* Slightly wider */
+    max-height: 85vh; /* Increased max height */
+    display: flex;
+    flex-direction: column;
+    transition: background-color 0.3s ease;
+}
+.modal-header, .modal-footer { padding: 15px; }
+.modal-header { border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center;}
+.modal-header h3 { font-size: 1.1em; color: var(--text-primary); }
+.modal-footer { border-top: 1px solid var(--border-color); text-align: right; }
+.modal-body { padding: 15px; overflow-y: auto; flex-grow: 1; }
+.modal-search-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--border-color-input);
+    border-radius: 4px;
+    margin-bottom: 15px; /* Increased margin */
+    background-color: var(--bg-main); /* Input bg matches main bg */
+    color: var(--text-primary);
+}
+.tag-list-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); /* Adjusted for slightly wider modal */
+    gap: 10px; /* Increased gap */
+}
+.tag-list-container label {
+    display: flex; /* Align checkbox and text */
+    align-items: center;
+    font-size: 0.9em;
+    padding: 8px 10px; /* Adjusted padding */
+    border: 1px solid transparent; /* For hover effect */
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    color: var(--text-primary);
+}
+.tag-list-container label:hover {
+    background-color: var(--accent-gray-hover);
+}
+.tag-list-container input[type="checkbox"] {
+    margin-right: 8px; /* Space between checkbox and text */
+    accent-color: var(--brand-primary); /* Modern way to color checkbox */
+}
+
+
+/* --- Buttons (General Themeable Classes) --- */
+.btn-primary { /* Main action button, e.g., "View Results", "Confirm" */
+    background-color: var(--button-primary-bg);
+    color: var(--button-primary-text);
+    border: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.2s ease;
+}
+.btn-primary:hover { background-color: var(--button-primary-hover-bg); }
+
+.btn-secondary { /* Secondary action, e.g., "Choose More Tags" */
+    background-color: var(--button-secondary-bg);
+    color: var(--button-secondary-text);
+    border: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.2s ease;
+}
+.btn-secondary:hover { background-color: var(--button-secondary-hover-bg); }
+
+.btn-tertiary { /* Less prominent action, e.g., "Reset" */
+    background-color: var(--button-tertiary-bg);
+    color: var(--button-tertiary-text);
+    border: 1px solid var(--button-tertiary-border);
+    padding: 10px 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+.btn-tertiary:hover { background-color: var(--button-tertiary-hover-bg); }
+
+
+/* --- Footer --- */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 15px;
+    border-top: 1px solid var(--border-color);
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    transition: border-color 0.3s ease;
+}
+
+/* --- Responsive adjustments --- */
+@media (max-width: 768px) {
+    .filter-panel { max-width: 90%; width: 280px; } /* Adjust filter panel on smaller screens */
+}
+@media (max-width: 600px) {
+    .situational-buttons-grid { grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); }
+    .quotes-grid { grid-template-columns: 1fr; }
+    header h1 { font-size: 1.15em; }
+    header h1 .subtitle { font-size: 0.7em; margin-left: 3px; }
+    .header-actions .icon-btn { font-size: 1.2em; padding: 6px;}
+    .theme-dropdown { min-width: 150px; }
+    .theme-dropdown .theme-option { padding: 8px 12px; font-size: 0.85em;}
+}

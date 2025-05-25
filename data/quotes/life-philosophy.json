@@ -1,0 +1,242 @@
+[
+  {
+    "id": "lp001",
+    "quote": "認識你自己。(Know thyself.)",
+    "author": "蘇格拉底 (Socrates) (傳說刻在德爾斐神廟)",
+    "work": "古希臘哲學",
+    "type": "人生哲理",
+    "tags": ["自我認知", "內省", "智慧之始", "自我探索", "人生指引"]
+  },
+  {
+    "id": "lp002",
+    "quote": "未經審視的人生不值得過。(The unexamined life is not worth living.)",
+    "author": "蘇格拉底 (Socrates)",
+    "work": "柏拉圖《申辯篇》",
+    "type": "人生哲理",
+    "tags": ["人生反思", "審視生活", "意義追尋", "自我探索", "警惕反思"]
+  },
+  {
+    "id": "lp003",
+    "quote": "我們無法選擇生命的長短，但我們可以控制它的寬度與深度。(We cannot choose the length of our lives, but we can control their width and depth.)",
+    "author": "愛爾蘭諺語 (Irish Proverb) / 史蒂芬·柯維 (Stephen Covey) (類似觀點)",
+    "work": "生活智慧",
+    "type": "人生哲理",
+    "tags": ["生命質量", "活出精彩", "珍惜當下", "人生價值", "選擇"]
+  },
+  {
+    "id": "lp004",
+    "quote": "幸福不在於找到完美的人，而在於學會用完美的眼光欣賞一個不完美的人。(Happiness is not about finding the right person, but about learning to see an imperfect person perfectly.)",
+    "author": "一行禪師 (Thich Nhat Hanh) (類似觀點)",
+    "work": "愛的智慧",
+    "type": "人生哲理",
+    "tags": ["幸福觀", "接納不完美", "愛的藝術", "人際關係", "尋求慰藉", "喜悅"]
+  },
+  {
+    "id": "lp005",
+    "quote": "人生百分之十在於你所遭遇的事，百分之九十在於你如何回應它。(Life is 10% what happens to you and 90% how you react to it.)",
+    "author": "查爾斯·斯溫多爾 (Charles R. Swindoll)",
+    "work": "態度決定論",
+    "type": "人生哲理",
+    "tags": ["態度決定一切", "積極回應", "心態管理", "掌控力", "人生指引"]
+  },
+  {
+    "id": "lp006",
+    "quote": "不要等待完美時刻，把握當下，讓它變得完美。(Don't wait for the perfect moment, take the moment and make it perfect.)",
+    "author": "佐伊·金塞拉 (Zoey Sayward)",
+    "work": "勵志作家",
+    "type": "人生哲理",
+    "tags": ["把握當下", "創造完美", "行動力", "積極主動", "珍惜當下"]
+  },
+  {
+    "id": "lp007",
+    "quote": "改變你能改變的，接受你不能改變的，並擁有區分這兩者的智慧。(Change what you can, accept what you cannot, and have the wisdom to know the difference.)",
+    "author": "寧靜禱文 (Serenity Prayer) (萊因霍爾德·尼布爾)",
+    "work": "生活智慧",
+    "type": "人生哲理",
+    "tags": ["接受與改變", "智慧", "內心平靜", "人生指引", "警惕反思", "尋求慰藉"]
+  },
+  {
+    "id": "lp008",
+    "quote": "我們看到的並非事物的本質，而是我們自己。(We don't see things as they are, we see them as we are.)",
+    "author": "阿娜伊斯·寧 (Anaïs Nin) / 塔木德 (Talmud) (類似觀點)",
+    "work": "認知哲學",
+    "type": "人生哲理",
+    "tags": ["主觀認知", "視角", "自我投射", "心靈鏡子", "自我探索", "警惕反思"]
+  },
+  {
+    "id": "lp009",
+    "quote": "如果你想了解一個人，不要聽他說什麼，而要看他做什麼。(If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.)",
+    "author": "J.K. 羅琳 (J.K. Rowling)",
+    "work": "《哈利波特》(天狼星·布萊克的話)",
+    "type": "人生哲理",
+    "tags": ["識人術", "言行一致", "品格觀察", "人際交往", "處世", "警惕反思"]
+  },
+  {
+    "id": "lp010",
+    "quote": "人生最大的冒險，就是過你夢想的生活。(The biggest adventure you can take is to live the life of your dreams.)",
+    "author": "歐普拉·溫芙蕾 (Oprah Winfrey)",
+    "work": "勵志導師",
+    "type": "人生哲理",
+    "tags": ["追逐夢想", "人生冒險", "活出自我", "勇氣", "勵志", "行動力"]
+  },
+  {
+    "id": "lp011",
+    "quote": "心靈的平靜始於不期望他人按你的方式行事。(Peace of mind comes from not wanting to change others.)",
+    "author": "傑拉爾德·賈姆波爾斯基 (Gerald G. Jampolsky)",
+    "work": "《只有愛是真實的》作者",
+    "type": "人生哲理",
+    "tags": ["內心平靜", "放下期待", "尊重差異", "人際和諧", "尋求慰藉"]
+  },
+  {
+    "id": "lp012",
+    "quote": "你給予世界的，世界將回報給你。(What you give to the world, the world will give back to you.)",
+    "author": "不詳 (因果循環的普遍法則)",
+    "work": "人生法則",
+    "type": "人生哲理",
+    "tags": ["因果法則", "付出與回報", "善有善報", "能量守恆", "處世"]
+  },
+  {
+    "id": "lp013",
+    "quote": "不要為打翻的牛奶而哭泣。(Don't cry over spilled milk.)",
+    "author": "英國諺語 (English Proverb)",
+    "work": "生活智慧",
+    "type": "人生哲理",
+    "tags": ["接受已發生的事", "向前看", "放下過去", "情緒管理", "尋求慰藉"]
+  },
+  {
+    "id": "lp014",
+    "quote": "真正的慷慨是向不配得到的人付出。(True generosity is an offering; given freely and out of pure love. No strings attached. No expectations.)",
+    "author": "伊莎貝爾·阿言德 (Isabel Allende) (類似觀點，原文更強調純粹的愛)",
+    "work": "人性光輝",
+    "type": "人生哲理",
+    "tags": ["慷慨", "無私奉獻", "大愛", "品格修養", "處世", "生命力"]
+  },
+  {
+    "id": "lp015",
+    "quote": "我們在人生中遇到的每一個人，都在某方面是我們的老師。(Everyone you meet is your teacher in some way.)",
+    "author": "不詳 (謙遜學習的態度)",
+    "work": "學習心態",
+    "type": "人生哲理",
+    "tags": ["虛心學習", "三人行必有我師", "生活處處是課堂", "人際交往", "自我探索"]
+  },
+  {
+    "id": "lp016",
+    "quote": "如果你想得到從未擁有過的東西，就必須做你從未做過的事。(If you want something you've never had, you must be willing to do something you've never done.)",
+    "author": "托馬斯·傑弗遜 (Thomas Jefferson) (常被歸功於他)",
+    "work": "改變與突破",
+    "type": "人生哲理",
+    "tags": ["改變", "突破舒適圈", "勇於嘗試", "行動力", "克服困難"]
+  },
+  {
+    "id": "lp017",
+    "quote": "生活是一面鏡子，你對它笑，它就對你笑；你對它哭，它也對你哭。(Life is a mirror and will reflect back to the thinker what he thinks into it.)",
+    "author": "歐內斯特·霍姆斯 (Ernest Holmes) (類似觀點)",
+    "work": "心態與現實",
+    "type": "人生哲理",
+    "tags": ["心態反映", "吸引力法則", "積極思考", "生活態度", "喜悅", "警惕反思"]
+  },
+  {
+    "id": "lp018",
+    "quote": "原諒他人，不是因為他們配得到原諒，而是因為你配得到平靜。(Forgive others, not because they deserve forgiveness, but because you deserve peace.)",
+    "author": "喬納森· Lockwood Huie",
+    "work": "心靈療癒",
+    "type": "人生哲理",
+    "tags": ["原諒", "內心平靜", "自我釋放", "情緒管理", "尋求慰藉"]
+  },
+  {
+    "id": "lp019",
+    "quote": "不要拿自己的第一章去和別人的第二十章比較。(Don't compare your chapter 1 to someone else's chapter 20.)",
+    "author": "不詳 (社群時代的提醒)",
+    "work": "自我成長",
+    "type": "人生哲理",
+    "tags": ["專注自身", "避免比較", "個人節奏", "自我肯定", "警惕反思", "人生指引"]
+  },
+  {
+    "id": "lp020",
+    "quote": "人生最重要的是學會如何施愛，並讓愛進入你的心。(The most important thing in life is to learn how to give out love, and to let it come in.)",
+    "author": "莫里·施瓦茨 (Morrie Schwartz)",
+    "work": "《最後14堂星期二的課》(Tuesdays with Morrie)",
+    "type": "人生哲理",
+    "tags": ["愛的能力", "付出與接受愛", "人際關係", "生命意義", "喜悅", "生命力"]
+  },
+  {
+    "id": "lp021",
+    "quote": "你不可能取悅每一個人，你不是披薩。(You can't please everyone, you're not pizza.)",
+    "author": "不詳 (網路幽默，但有哲理)",
+    "work": "人際界線",
+    "type": "人生哲理",
+    "tags": ["自我認同", "人際界線", "無需取悅", "做自己", "幽默", "處世"]
+  },
+  {
+    "id": "lp022",
+    "quote": "簡單是終極的複雜。(Simplicity is the ultimate sophistication.)",
+    "author": "李奧納多·達文西 (Leonardo da Vinci)",
+    "work": "藝術與設計哲學",
+    "type": "人生哲理",
+    "tags": ["簡約之美", "返璞歸真", "去蕪存菁", "生活哲學", "創意思考"]
+  },
+  {
+    "id": "lp023",
+    "quote": "我們的心靈就像降落傘，只有張開時才能發揮作用。(Minds are like parachutes - they only function when open.)",
+    "author": "湯瑪斯·杜瓦 (Thomas Dewar)",
+    "work": "開放心態的重要性",
+    "type": "人生哲理",
+    "tags": ["開放心態", "接納新事物", "學習", "偏見", "警惕反思"]
+  },
+  {
+    "id": "lp024",
+    "quote": "如果你想測試一個人的品格，就給他權力。(If you want to test a man's character, give him power.)",
+    "author": "亞伯拉罕·林肯 (Abraham Lincoln)",
+    "work": "人性觀察",
+    "type": "人生哲理",
+    "tags": ["品格考驗", "權力與人性", "領導力", "警惕反思", "處世"]
+  },
+  {
+    "id": "lp025",
+    "quote": "對生活抱持好奇，而非批判。(Be curious, not judgmental.)",
+    "author": "華特·惠特曼 (Walt Whitman) (《泰德拉索》影集引用此精神)",
+    "work": "處世態度",
+    "type": "人生哲理",
+    "tags": ["保持好奇", "避免批判", "開放學習", "人際交往", "同理心", "處世"]
+  },
+  {
+    "id": "lp026",
+    "quote": "人生識字憂患始。(To be literate is to begin to worry.)",
+    "author": "蘇軾 (Su Shi)",
+    "work": "中國古代文學",
+    "type": "人生哲理",
+    "tags": ["知識的代價", "思考與煩惱", "人生感悟", "警惕反思", "自我探索"]
+  },
+  {
+    "id": "lp027",
+    "quote": "己所不欲，勿施於人。(Do not impose on others what you yourself do not desire.)",
+    "author": "孔子 (Confucius)",
+    "work": "《論語》",
+    "type": "人生哲理",
+    "tags": ["黃金法則", "同理心", "道德準則", "人際關係", "處世"]
+  },
+  {
+    "id": "lp028",
+    "quote": "內心的平靜，來自於接受現實，而非試圖改變它以符合我們的期望。(Inner peace begins the moment you choose not to allow another person or event to control your emotions.)",
+    "author": "一行禪師 (Thich Nhat Hanh) (類似觀點)",
+    "work": "禪宗智慧",
+    "type": "人生哲理",
+    "tags": ["內心平靜", "接受現實", "情緒自主", "放下執著", "尋求慰藉", "人生指引"]
+  },
+  {
+    "id": "lp029",
+    "quote": "我們都生活在陰溝裡，但仍有人仰望星空。(We are all in the gutter, but some of us are looking at the stars.)",
+    "author": "奧斯卡·王爾德 (Oscar Wilde)",
+    "work": "《溫夫人的扇子》",
+    "type": "人生哲理",
+    "tags": ["困境中的希望", "仰望星空", "積極心態", "理想主義", "尋求慰藉", "生命力"]
+  },
+  {
+    "id": "lp030",
+    "quote": "生活中唯一不變的是變化本身，擁抱它，隨之成長。(The only thing constant in life is change. Embrace it and grow with it.)",
+    "author": "赫拉克利特 (Heraclitus) (改編)",
+    "work": "哲學與生活",
+    "type": "人生哲理",
+    "tags": ["擁抱變化", "適應成長", "人生常態", "積極應對", "人生指引", "堅持不懈"]
+  }
+]

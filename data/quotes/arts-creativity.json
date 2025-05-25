@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ac001",
+    "quote": "每個孩子都是藝術家，問題在於如何在長大後仍然保持藝術家的身份。(Every child is an artist. The problem is how to remain an artist once we grow up.)",
+    "author": "巴勃羅·畢卡索 (Pablo Picasso)",
+    "work": "藝術家觀點",
+    "type": "藝術創作",
+    "tags": ["童心", "保持創造力", "藝術家天性", "想像力", "自我探索"]
+  },
+  {
+    "id": "ac002",
+    "quote": "藝術的目的不是表現事物的外表，而是其內在的意義。(The purpose of art is washing the dust of daily life off our souls.)",
+    "author": "巴勃羅·畢卡索 (Pablo Picasso) (此為他另一句名言，強調藝術淨化心靈)",
+    "work": "藝術觀",
+    "type": "藝術創作",
+    "tags": ["藝術目的", "心靈淨化", "內在意義", "情感表達", "尋求慰藉", "生命力"]
+  },
+  {
+    "id": "ac003",
+    "quote": "創造力就是犯錯的勇氣。(Creativity is the courage to make mistakes.)",
+    "author": "不詳 (常被引用，但確切出處待考)",
+    "work": "創作理念",
+    "type": "藝術創作",
+    "tags": ["創造力", "勇於犯錯", "實驗精神", "不怕失敗", "創意思考"]
+  },
+  {
+    "id": "ac004",
+    "quote": "沒有偉大的藝術家看見事物真正的樣子。如果他看見了，他就不是藝術家了。(No great artist ever sees things as they really are. If he did, he would cease to be an artist.)",
+    "author": "奧斯卡·王爾德 (Oscar Wilde)",
+    "work": "《謊言的衰落》",
+    "type": "藝術創作",
+    "tags": ["藝術視角", "主觀性", "想像力", "超越現實", "創意思考"]
+  },
+  {
+    "id": "ac005",
+    "quote": "想像力比知識更重要，因為知識是有限的，而想像力概括著世界上的一切，推動著進步，並且是知識進化的泉源。(Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.)",
+    "author": "阿爾伯特·愛因斯坦 (Albert Einstein)",
+    "work": "科學家的藝術觀 (之前在 tech-innovation 中也適用)",
+    "type": "藝術創作",
+    "tags": ["想像力", "知識", "創造力源泉", "進步", "創意思考", "創作靈感"]
+  },
+  {
+    "id": "ac006",
+    "quote": "藝術家唯一的職責就是忠於自己的夢想。(The artist's only responsibility is to his dream.)",
+    "author": "奧諾雷·德·巴爾扎克 (Honoré de Balzac)",
+    "work": "作家觀點",
+    "type": "藝術創作",
+    "tags": ["忠於自我", "夢想", "藝術家職責", "真誠表達", "自我探索"]
+  },
+  {
+    "id": "ac007",
+    "quote": "所謂原創，並非指第一個想到某個點子的人，而是指那個使點子真正實現並廣為人知的人。(Originality is not seen in being the first to think of an idea, but in being the first to make it widely known and truly implemented.)",
+    "author": "不詳 (常見的創新觀點)",
+    "work": "創作與執行",
+    "type": "藝術創作",
+    "tags": ["原創性", "執行力", "實現價值", "影響力", "警惕反思"]
+  },
+  {
+    "id": "ac008",
+    "quote": "藝術並不複製可見的事物，而是使事物變得可見。(Art does not reproduce the visible; rather, it makes visible.)",
+    "author": "保羅·克利 (Paul Klee)",
+    "work": "畫家觀點",
+    "type": "藝術創作",
+    "tags": ["藝術功能", "揭示本質", "創造視角", "抽象表達", "創意思考"]
+  },
+  {
+    "id": "ac009",
+    "quote": "如果你聽到內心有個聲音說『你畫不出來』，那麼無論如何你都要去畫，那個聲音就會沉默。(If you hear a voice within you say 'you cannot paint,' then by all means paint, and that voice will be silenced.)",
+    "author": "文森特·梵谷 (Vincent van Gogh)",
+    "work": "畫家心聲",
+    "type": "藝術創作",
+    "tags": ["克服自我懷疑", "行動戰勝恐懼", "堅持創作", "內心聲音", "勵志", "克服困難"]
+  },
+  {
+    "id": "ac010",
+    "quote": "靈感確實存在，但它必須在你工作時找到你。(Inspiration exists, but it has to find you working.)",
+    "author": "巴勃羅·畢卡索 (Pablo Picasso)",
+    "work": "關於創作與勤奮",
+    "type": "藝術創作",
+    "tags": ["靈感來源", "勤奮", "持續工作", "創作紀律", "行動力", "創作靈感"]
+  },
+  {
+    "id": "ac011",
+    "quote": "繪畫是無言的詩，詩是有言的畫。(Painting is silent poetry, and poetry is painting that speaks.)",
+    "author": "普魯塔克 (Plutarch) / 西蒙尼德斯 (Simonides)",
+    "work": "古希臘思想，比較藝術形式",
+    "type": "藝術創作",
+    "tags": ["藝術相通", "詩畫關係", "表達形式", "美學", "創意思考"]
+  },
+  {
+    "id": "ac012",
+    "quote": "好的藝術家複製，偉大的藝術家偷竊。(Good artists copy, great artists steal.)",
+    "author": "巴勃羅·畢卡索 (Pablo Picasso) / 史蒂夫·賈伯斯 (Steve Jobs) 等多人引用",
+    "work": "關於借鑒與創新",
+    "type": "藝術創作",
+    "tags": ["借鑒", "轉化創新", "學習他人", "內化吸收", "警惕反思", "創意思考"]
+  },
+  {
+    "id": "ac013",
+    "quote": "藝術的敵人是缺乏限制。(The enemy of art is the absence of limitations.)",
+    "author": "奧森·威爾斯 (Orson Welles)",
+    "work": "電影導演觀點",
+    "type": "藝術創作",
+    "tags": ["限制與創造", "挑戰激發潛能", "戴著鐐銬跳舞", "創作困境", "創意思考"]
+  },
+  {
+    "id": "ac014",
+    "quote": "所有藝術在本質上都是自傳。(All art is autobiographical; the pearl is the oyster's autobiography.)",
+    "author": "費德里柯·費里尼 (Federico Fellini)",
+    "work": "電影導演觀點",
+    "type": "藝術創作",
+    "tags": ["藝術與自我", "真情流露", "個人經驗", "作品即作者", "自我探索"]
+  },
+  {
+    "id": "ac015",
+    "quote": "寫作的藝術就是發現你所相信的東西的藝術。(The art of writing is the art of discovering what you believe.)",
+    "author": "古斯塔夫·福樓拜 (Gustave Flaubert)",
+    "work": "作家論寫作",
+    "type": "藝術創作",
+    "tags": ["寫作過程", "自我發現", "探索信念", "文字表達", "自我探索", "人生指引"]
+  },
+  {
+    "id": "ac016",
+    "quote": "藝術家就像一個容器，接收來自四面八方的情感——來自天空，來自大地，來自一張紙片，來自一個路過的人影，來自一張蜘蛛網。(An artist is a receptacle for emotions that come from all over the place: from the sky, from the earth, from a scrap of paper, from a passing shape, from a spider's web.)",
+    "author": "巴勃羅·畢卡索 (Pablo Picasso)",
+    "work": "藝術家的敏感性",
+    "type": "藝術創作",
+    "tags": ["藝術家特質", "情感容器", "觀察力", "靈感捕捉", "生命力", "創作靈感"]
+  },
+  {
+    "id": "ac017",
+    "quote": "如果沒有音樂，生活將是一個錯誤。(Without music, life would be a mistake.)",
+    "author": "弗里德里希·尼采 (Friedrich Nietzsche)",
+    "work": "《偶像的黃昏》",
+    "type": "藝術創作",
+    "tags": ["音樂的重要性", "生活調劑", "情感寄託", "藝術價值", "喜悅", "尋求慰藉"]
+  },
+  {
+    "id": "ac018",
+    "quote": "藝術的偉大之處在於找到一種將個人經驗轉化為普世經驗的方式。(The great thing about art is that it finds a way to transform personal experience into universal experience.)",
+    "author": "宮崎駿 (Hayao Miyazaki) (類似觀點)",
+    "work": "動畫大師對藝術的理解",
+    "type": "藝術創作",
+    "tags": ["藝術共鳴", "個人與普世", "情感連接", "故事的力量", "生命力"]
+  },
+  {
+    "id": "ac019",
+    "quote": "每一個設計上的決定，如果不是讓它更有用，就不要做。(Every design decision, if it's not making it more useful, then don't do it.)",
+    "author": "迪特·拉姆斯 (Dieter Rams)",
+    "work": "工業設計大師，設計十誡",
+    "type": "藝術創作",
+    "tags": ["設計原則", "實用主義", "少即是多", "功能性", "警惕反思"]
+  },
+  {
+    "id": "ac020",
+    "quote": "不要等待靈感，要去追求它，帶著棍棒。(Don't wait for inspiration. Go after it with a club.)",
+    "author": "傑克·倫敦 (Jack London)",
+    "work": "作家論創作",
+    "type": "藝術創作",
+    "tags": ["主動尋求靈感", "積極創作", "行動力", "克服惰性", "創作靈感"]
+  },
+  {
+    "id": "ac021",
+    "quote": "藝術是唯一嚴肅的事情。但藝術家是唯一不嚴肅的人。(Art is the only serious thing in the world. And the artist is the only person who is never serious.)",
+    "author": "奧斯卡·王爾德 (Oscar Wilde)",
+    "work": "對藝術與藝術家的反諷",
+    "type": "藝術創作",
+    "tags": ["藝術的嚴肅性", "藝術家的灑脫", "反諷", "幽默", "警惕反思"]
+  },
+  {
+    "id": "ac022",
+    "quote": "一個藝術家永遠不應該成為他自己時代的囚徒。(An artist should never be a prisoner of himself, prisoner of style, prisoner of reputation, prisoner of success.)",
+    "author": "亨利·馬蒂斯 (Henri Matisse)",
+    "work": "畫家論藝術自由",
+    "type": "藝術創作",
+    "tags": ["藝術自由", "突破自我", "不被束縛", "持續進化", "警惕反思", "自我探索"]
+  },
+  {
+    "id": "ac023",
+    "quote": "形式追隨功能。(Form follows function.)",
+    "author": "路易斯·蘇利文 (Louis Sullivan)",
+    "work": "建築設計原則",
+    "type": "藝術創作",
+    "tags": ["設計原則", "功能主義", "建築美學", "實用性", "簡潔"]
+  },
+  {
+    "id": "ac024",
+    "quote": "藝術中最困難的部分是知道何時停止。(The hardest part of art is knowing when to stop.)",
+    "author": "不詳 (畫家、作家中流傳的觀點)",
+    "work": "創作的節制",
+    "type": "藝術創作",
+    "tags": ["恰到好處", "創作節制", "畫龍點睛", "判斷力", "警惕反思"]
+  },
+  {
+    "id": "ac025",
+    "quote": "創造力是智慧在玩耍。(Creativity is intelligence having fun.)",
+    "author": "阿爾伯特·愛因斯坦 (Albert Einstein) (常被歸功於他)",
+    "work": "對創造力的生動描述",
+    "type": "藝術創作",
+    "tags": ["創造力本質", "智慧的展現", "樂在其中", "遊戲精神", "喜悅", "創意思考"]
+  },
+  {
+    "id": "ac026",
+    "quote": "藝術的魅力在於它能讓我們看到熟悉事物的陌生面。(The charm of art is that it allows us to see the unfamiliar side of familiar things.)",
+    "author": "村上春樹 (Haruki Murakami) (類似觀點)",
+    "work": "作家對藝術的理解",
+    "type": "藝術創作",
+    "tags": ["藝術視角", "陌生化", "發現新奇", "重新審視", "創意思考", "創作靈感"]
+  },
+  {
+    "id": "ac027",
+    "quote": "如果你想寫作，就去寫。沒有什麼『作家區塊』這種東西，只有『不想寫作的作家』。(If you want to write, write. There's no such thing as 'writer's block.' There are only 'writers who don't want to write.')",
+    "author": "不詳 (對作家瓶頸的犀利觀點)",
+    "work": "克服寫作障礙",
+    "type": "藝術創作",
+    "tags": ["克服寫作瓶頸", "行動力", "紀律", "堅持創作", "警惕反思"]
+  },
+  {
+    "id": "ac028",
+    "quote": "藝術應該安慰不安的人，並擾亂安逸的人。(Art should comfort the disturbed and disturb the comfortable.)",
+    "author": "塞薩爾·克魯茲 (Cesar A. Cruz) / 班克斯 (Banksy) (常被引用)",
+    "work": "藝術的社會功能",
+    "type": "藝術創作",
+    "tags": ["藝術的社會性", "挑戰現狀", "引發思考", "情感共鳴", "警惕反思", "尋求慰藉"]
+  },
+  {
+    "id": "ac029",
+    "quote": "細節不是細節，它們造就了設計。(The details are not the details. They make the design.)",
+    "author": "查爾斯·伊姆斯 (Charles Eames)",
+    "work": "設計大師",
+    "type": "藝術創作",
+    "tags": ["注重細節", "設計品質", "工匠精神", "完美主義", "警惕反思"]
+  },
+  {
+    "id": "ac030",
+    "quote": "藝術是人類的天性。(Art is a human性の自然な現れである。 - Art is a natural expression of human nature.)",
+    "author": "宮崎駿 (Hayao Miyazaki)",
+    "work": "動畫大師的藝術觀",
+    "type": "藝術創作",
+    "tags": ["藝術本質", "人類天性", "情感表達", "共通性", "生命力"]
+  }
+]

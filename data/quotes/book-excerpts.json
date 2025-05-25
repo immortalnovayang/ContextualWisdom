@@ -1,0 +1,242 @@
+[
+  {
+    "id": "be001",
+    "quote": "所有大人都曾經是小孩，雖然只有少數人記得。(All grown-ups were once children... but only few of them remember it.)",
+    "author": "安托萬·德·聖修伯里 (Antoine de Saint-Exupéry)",
+    "work": "小王子 (The Little Prince)",
+    "type": "書籍摘錄",
+    "tags": ["童心", "成長的遺忘", "純真", "人生哲理", "警惕反思", "自我探索"]
+  },
+  {
+    "id": "be002",
+    "quote": "重要的東西用眼睛是看不見的。(What is essential is invisible to the eye.)",
+    "author": "安托萬·德·聖修伯里 (Antoine de Saint-Exupéry)",
+    "work": "小王子 (The Little Prince)",
+    "type": "書籍摘錄",
+    "tags": ["用心感受", "本質", "內在價值", "愛與友誼", "人生指引", "尋求慰藉"]
+  },
+  {
+    "id": "be003",
+    "quote": "如果你渴望得到某樣東西，你得讓它自由，如果它回到你身邊，它就是屬於你的，如果它不會回來，你就從未擁有過它。(If you love something, set it free. If it comes back, it's yours. If it doesn't, it never was.)",
+    "author": "理查·巴哈 (Richard Bach)",
+    "work": "《幻影》(Illusions: The Adventures of a Reluctant Messiah)",
+    "type": "書籍摘錄",
+    "tags": ["愛與自由", "順其自然", "緣分", "放下執著", "人生哲理", "尋求慰藉"]
+  },
+  {
+    "id": "be004",
+    "quote": "人不是因失敗而打敗，而是因放棄而打敗。(A man is not old until regrets take the place of dreams.)",
+    "author": "約翰·巴里摩爾 (John Barrymore) (此為其名言，常被勵志書籍引用，原文更指夢想與遺憾)",
+    "work": "勵志書籍",
+    "type": "書籍摘錄",
+    "tags": ["永不放棄", "堅持", "失敗與成功", "夢想", "勵志", "克服困難"]
+  },
+  {
+    "id": "be005",
+    "quote": "我們以歷史的眼光看待事物，只因我們活在當下。(We view things from the perspective of history only because we live in the present.)",
+    "author": "尤瓦爾·赫拉利 (Yuval Noah Harari)",
+    "work": "人類簡史 (Sapiens: A Brief History of Humankind)",
+    "type": "書籍摘錄",
+    "tags": ["歷史視角", "當下認知", "時間觀", "人類學", "警惕反思", "創意思考"]
+  },
+  {
+    "id": "be006",
+    "quote": "知識就是力量。(Knowledge is power.)",
+    "author": "法蘭西斯·培根 (Francis Bacon)",
+    "work": "《沉思錄》(Meditationes Sacrae)",
+    "type": "書籍摘錄",
+    "tags": ["知識的重要性", "力量來源", "學習", "啟蒙思想", "勵志"]
+  },
+  {
+    "id": "be007",
+    "quote": "我所知道的唯一真實的智慧，就是知道自己一無所知。(The only true wisdom is in knowing you know nothing.)",
+    "author": "蘇格拉底 (Socrates) (柏拉圖轉述)",
+    "work": "《柏拉圖對話錄》",
+    "type": "書籍摘錄",
+    "tags": ["謙遜", "自知無知", "智慧本質", "持續學習", "警惕反思", "自我探索"]
+  },
+  {
+    "id": "be008",
+    "quote": "習慣形成性格，性格決定命運。(Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny.)",
+    "author": "聖雄甘地 (Mahatma Gandhi) (此為其完整觀點的簡化)",
+    "work": "成功學/勵志書籍",
+    "type": "書籍摘錄",
+    "tags": ["習慣的力量", "性格塑造", "命運", "自我修養", "人生指引", "堅持不懈"]
+  },
+  {
+    "id": "be009",
+    "quote": "世界上只有一種英雄主義，那就是在認清生活真相之後依然熱愛生活。(There is only one heroism in the world: to see the world as it is and to love it.)",
+    "author": "羅曼·羅蘭 (Romain Rolland)",
+    "work": "《米開朗基羅傳》",
+    "type": "書籍摘錄",
+    "tags": ["英雄主義", "熱愛生活", "接受現實", "樂觀", "人生態度", "生命力", "尋求慰藉"]
+  },
+  {
+    "id": "be010",
+    "quote": "如果你想了解宇宙的秘密，就從能量、頻率和振動的角度來思考。(If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.)",
+    "author": "尼古拉·特斯拉 (Nikola Tesla)",
+    "work": "科學家筆記/訪談",
+    "type": "書籍摘錄",
+    "tags": ["宇宙奧秘", "能量學", "頻率振動", "科學思考", "創意思考", "想像力"]
+  },
+  {
+    "id": "be011",
+    "quote": "一個人可以被毀滅，但不能被打敗。(A man can be destroyed but not defeated.)",
+    "author": "厄尼斯特·海明威 (Ernest Hemingway)",
+    "work": "老人與海 (The Old Man and the Sea)",
+    "type": "書籍摘錄",
+    "tags": ["不屈精神", "意志力", "人類尊嚴", "面對困境", "勵志", "克服困難"]
+  },
+  {
+    "id": "be012",
+    "quote": "閱讀使人充實，會談使人敏捷，寫作使人精確。(Reading maketh a full man; conference a ready man; and writing an exact man.)",
+    "author": "法蘭西斯·培根 (Francis Bacon)",
+    "work": "《論讀書》(Of Studies)",
+    "type": "書籍摘錄",
+    "tags": ["閱讀益處", "學習方法", "知識獲取", "溝通與表達", "人生指引"]
+  },
+  {
+    "id": "be013",
+    "quote": "愛不是凝視彼此，而是一起凝視共同的方向。(Love does not consist in gazing at each other, but in looking outward together in the same direction.)",
+    "author": "安托萬·德·聖修伯里 (Antoine de Saint-Exupéry)",
+    "work": "《風沙星辰》(Wind, Sand and Stars)",
+    "type": "書籍摘錄",
+    "tags": ["愛的真諦", "共同目標", "夥伴關係", "人際關係", "喜悅"]
+  },
+  {
+    "id": "be014",
+    "quote": "我們的心是懶惰的，很容易就相信那些使我們安逸的東西。(Our minds are lazy, and they believe what is easy rather than what is true.)",
+    "author": "卡爾·薩根 (Carl Sagan)",
+    "work": "《魔鬼出沒的世界》(The Demon-Haunted World)",
+    "type": "書籍摘錄",
+    "tags": ["批判性思維", "求真務實", "克服惰性思考", "科學精神", "警惕反思"]
+  },
+  {
+    "id": "be015",
+    "quote": "所謂的聽天由命，是一種得到證實的絕望。(What we call resignation is confirmed desperation.)",
+    "author": "亨利·大衛·梭羅 (Henry David Thoreau)",
+    "work": "《瓦爾登湖》(Walden)",
+    "type": "書籍摘錄",
+    "tags": ["積極改變", "拒絕宿命", "主動性", "人生態度", "警惕反思", "行動力"]
+  },
+  {
+    "id": "be016",
+    "quote": "歷史不會重複自己，但它會押韻。(History doesn't repeat itself, but it often rhymes.)",
+    "author": "馬克·吐溫 (Mark Twain) (常被歸功於他)",
+    "work": "歷史觀察",
+    "type": "書籍摘錄",
+    "tags": ["歷史規律", "借古鑑今", "模式識別", "社會發展", "警惕反思"]
+  },
+  {
+    "id": "be017",
+    "quote": "一個人畢其一生的努力，就是在整合他童年時代的點點滴滴。(The whole of life is but a patient accumulating of the bits and pieces of childhood.)",
+    "author": "卡爾·榮格 (Carl Jung)",
+    "work": "心理學著作",
+    "type": "書籍摘錄",
+    "tags": ["童年影響", "人格發展", "心理學", "潛意識", "自我探索", "人生指引"]
+  },
+  {
+    "id": "be018",
+    "quote": "沒有黑暗這種東西，黑暗只是光明的缺席。(There is no such thing as darkness; only a failure to see.)",
+    "author": "馬爾科姆· Muggeridge (這句話更常見的版本，原意可能指缺乏理解)",
+    "work": "哲學思考",
+    "type": "書籍摘錄",
+    "tags": ["光明與黑暗", "視角轉換", "理解", "希望", "創意思考", "尋求慰藉"]
+  },
+  {
+    "id": "be019",
+    "quote": "當你凝視深淵時，深淵也在凝視你。(He who fights with monsters should be careful lest he thereby become a monster. And if thou gaze long into an abyss, the abyss will also gaze into thee.)",
+    "author": "弗里德里希·尼采 (Friedrich Nietzsche)",
+    "work": "《善惡的彼岸》",
+    "type": "書籍摘錄",
+    "tags": ["人性掙扎", "警惕同化", "深淵凝視", "道德界線", "警惕反思"]
+  },
+  {
+    "id": "be020",
+    "quote": "大多數人過著一種平靜的絕望生活。(The mass of men lead lives of quiet desperation.)",
+    "author": "亨利·大衛·梭羅 (Henry David Thoreau)",
+    "work": "《瓦爾登湖》(Walden)",
+    "type": "書籍摘錄",
+    "tags": ["生活狀態", "內心掙扎", "尋找意義", "社會觀察", "警惕反思", "感到迷茫"]
+  },
+  {
+    "id": "be021",
+    "quote": "一個人的真正尺度，是他如何對待那些對他沒有任何好處的人。(The true measure of a man is how he treats someone who can do him absolutely no good.)",
+    "author": "塞繆爾·詹森 (Samuel Johnson)",
+    "work": "英國文學家",
+    "type": "書籍摘錄",
+    "tags": ["品格衡量", "仁慈", "待人處事", "道德標準", "處世", "名聲"]
+  },
+  {
+    "id": "be022",
+    "quote": "那些殺不死我的，必使我更強大。(That which does not kill us makes us stronger.)",
+    "author": "弗里德里希·尼采 (Friedrich Nietzsche)",
+    "work": "《偶像的黃昏》",
+    "type": "書籍摘錄",
+    "tags": ["逆境成長", "愈挫愈勇", "生命力", "堅韌", "勵志", "克服困難"]
+  },
+  {
+    "id": "be023",
+    "quote": "故事講述者統治世界。(Storytellers rule the world.)",
+    "author": "柏拉圖 (Plato) (類似觀點，強調敘事的力量)",
+    "work": "哲學思想",
+    "type": "書籍摘錄",
+    "tags": ["敘事力量", "影響力", "溝通", "文化塑造", "創意思考", "想像力"]
+  },
+  {
+    "id": "be024",
+    "quote": "我們建造的工具，反過來也塑造我們。(We shape our tools, and thereafter our tools shape us.)",
+    "author": "馬歇爾·麥克魯漢 (Marshall McLuhan)",
+    "work": "《理解媒介》",
+    "type": "書籍摘錄",
+    "tags": ["科技與人", "媒介影響", "相互塑造", "社會變革", "警惕反思"]
+  },
+  {
+    "id": "be025",
+    "quote": "如果你想快樂一小時，就去睡個午覺。如果你想快樂一天，就去釣魚。如果你想快樂一生，就去幫助別人。(If you want happiness for an hour, take a nap. If you want happiness for a day, go fishing. If you want happiness for a lifetime, help someone.)",
+    "author": "中國諺語 (Chinese Proverb)",
+    "work": "快樂的秘訣",
+    "type": "書籍摘錄",
+    "tags": ["助人為樂", "快樂來源", "人生意義", "付出", "喜悅", "生命力"]
+  },
+  {
+    "id": "be026",
+    "quote": "恐懼是心靈的殺手。(Fear is the mind-killer.)",
+    "author": "法蘭克·赫伯特 (Frank Herbert)",
+    "work": "《沙丘》(Dune)",
+    "type": "書籍摘錄",
+    "tags": ["克服恐懼", "心靈力量", "勇氣", "科幻哲學", "警惕反思"]
+  },
+  {
+    "id": "be027",
+    "quote": "所有動物生來平等，但有些動物比其他動物更平等。(All animals are equal, but some animals are more equal than others.)",
+    "author": "喬治·歐威爾 (George Orwell)",
+    "work": "《動物農莊》(Animal Farm)",
+    "type": "書籍摘錄",
+    "tags": ["社會諷刺", "不平等", "權力腐敗", "政治寓言", "警惕反思"]
+  },
+  {
+    "id": "be028",
+    "quote": "凡是你抗拒的，都會持續存在。(What you resist, persists.)",
+    "author": "卡爾·榮格 (Carl Jung)",
+    "work": "心理學原理",
+    "type": "書籍摘錄",
+    "tags": ["接受", "心理學", "情緒流動", "放下抗拒", "尋求慰藉", "人生指引"]
+  },
+  {
+    "id": "be029",
+    "quote": "唯一能從歷史中學到的教訓，就是人們從來都無法從歷史中學到任何教訓。(The only thing we learn from history is that we learn nothing from history.)",
+    "author": "格奧爾格·黑格爾 (Georg Hegel) (常被如此簡化引用)",
+    "work": "歷史哲學",
+    "type": "書籍摘錄",
+    "tags": ["歷史教訓", "人性重複", "循環往復", "社會反思", "警惕反思"]
+  },
+  {
+    "id": "be030",
+    "quote": "寫作，不過是在靈魂的深處放一張躺椅，然後邀請陌生人進來。(Writing is perhaps the only profession that invites you to place a recliner in the depths of your soul and then invite strangers to come and sit.)",
+    "author": "不詳 (對寫作的詩意描述)",
+    "work": "文學創作",
+    "type": "書籍摘錄",
+    "tags": ["寫作的本質", "靈魂交流", "情感共鳴", "文字魅力", "創意思考", "尋求慰藉"]
+  }
+]

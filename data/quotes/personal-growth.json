@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pg001",
+    "quote": "昨天已逝，明天尚遠，我們所擁有的只有今天。讓我們開始吧。(Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.)",
+    "author": "德蕾莎修女 (Mother Teresa)",
+    "work": "生活哲學",
+    "type": "個人成長",
+    "tags": ["活在當下", "行動力", "時間管理", "珍惜", "勵志"]
+  },
+  {
+    "id": "pg002",
+    "quote": "唯有藉著愛，人才得以生存。(It is only with the heart that one can see rightly; what is essential is invisible to the eye.)",
+    "author": "安托萬·德·聖修伯里 (Antoine de Saint-Exupéry)",
+    "work": "《小王子》(The Little Prince) - 此為書中狐狸的話，原文更強調用心看事物",
+    "type": "個人成長",
+    "tags": ["愛", "用心感受", "本質", "人際關係", "智慧"]
+  },
+  {
+    "id": "pg003",
+    "quote": "成為你想看到的改變。(Be the change that you wish to see in the world.)",
+    "author": "聖雄甘地 (Mahatma Gandhi)",
+    "work": "人生哲學",
+    "type": "個人成長",
+    "tags": ["以身作則", "改變自己", "影響力", "行動", "社會責任"]
+  },
+  {
+    "id": "pg004",
+    "quote": "我們最大的弱點在於放棄。成功的必然之路就是不斷地重來一次。(Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.)",
+    "author": "湯瑪斯·愛迪生 (Thomas A. Edison)",
+    "work": "發明家精神",
+    "type": "個人成長",
+    "tags": ["堅持不懈", "永不放棄", "毅力", "成功之路", "嘗試"]
+  },
+  {
+    "id": "pg005",
+    "quote": "人生不是等待暴風雨過去，而是學會在雨中跳舞。(Life isn't about waiting for the storm to pass. It's about learning how to dance in the rain.)",
+    "author": "薇薇安·格林 (Vivian Greene)",
+    "work": "生活態度",
+    "type": "個人成長",
+    "tags": ["逆境成長", "積極心態", "生活藝術", "韌性", "樂觀"]
+  },
+  {
+    "id": "pg006",
+    "quote": "你的時間有限，所以不要為別人而活。不要被教條所限，不要活在別人的觀念裡。不要讓別人的意見左右自己內心的聲音。最重要的是，勇敢地去追隨自己的心靈和直覺。(Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.)",
+    "author": "史蒂夫·賈伯斯 (Steve Jobs)",
+    "work": "史丹佛大學畢業典禮演講 (Stanford Commencement Address, 2005)",
+    "type": "個人成長",
+    "tags": ["追隨內心", "獨立思考", "勇氣", "時間價值", "人生選擇"]
+  },
+  {
+    "id": "pg007",
+    "quote": "唯一真正讓我們恐懼的，是恐懼本身。(The only thing we have to fear is fear itself.)",
+    "author": "富蘭克林·D·羅斯福 (Franklin D. Roosevelt)",
+    "work": "首次就職演說 (First Inaugural Address, 1933)",
+    "type": "個人成長",
+    "tags": ["克服恐懼", "勇氣", "心理建設", "挑戰", "信心"]
+  },
+  {
+    "id": "pg008",
+    "quote": "如果你能夢想它，你就能實現它。(If you can dream it, you can do it.)",
+    "author": "華特·迪士尼 (Walt Disney) (此話常被歸功於他)",
+    "work": "迪士尼精神",
+    "type": "個人成長",
+    "tags": ["夢想", "實現", "信念", "創造力", "勵志"]
+  },
+  {
+    "id": "pg009",
+    "quote": "千里之行，始於足下。(A journey of a thousand miles begins with a single step.)",
+    "author": "老子 (Lao Tzu)",
+    "work": "《道德經》",
+    "type": "個人成長",
+    "tags": ["行動開始", "積少成多", "耐心", "毅力", "哲理"]
+  },
+  {
+    "id": "pg010",
+    "quote": "重要的不是你跌倒了多少次，而是你重新站起來了多少次。(It's not how many times you get knocked down that counts, it's how many times you get back up.)",
+    "author": "文斯·隆巴迪 (Vince Lombardi)",
+    "work": "美式足球教練",
+    "type": "個人成長",
+    "tags": ["韌性", "從失敗中站起", "毅力", "運動精神", "永不言敗"]
+  },
+  {
+    "id": "pg011",
+    "quote": "快樂不是擁有的多，而是計較的少。(Happiness is not having a lot. Happiness is giving a lot. / Happiness is not something ready-made. It comes from your own actions.)",
+    "author": "佛家哲理 / 達賴喇嘛 (Dalai Lama) (類似觀點)",
+    "work": "生活智慧",
+    "type": "個人成長",
+    "tags": ["快樂", "知足常樂", "付出", "內心平靜", "心態"]
+  },
+  {
+    "id": "pg012",
+    "quote": "教育的目的是用一顆開放的心靈去取代一顆空虛的頭腦。(The purpose of education is to replace an empty mind with an open one.)",
+    "author": "馬爾科姆·福布斯 (Malcolm Forbes)",
+    "work": "《富比士》雜誌創辦人",
+    "type": "個人成長",
+    "tags": ["教育意義", "開放心態", "學習", "獨立思考", "求知"]
+  },
+  {
+    "id": "pg013",
+    "quote": "唯一限制我們實現明天夢想的，是我們今天的疑慮。(The only limit to our realization of tomorrow will be our doubts of today.)",
+    "author": "富蘭克林·D·羅斯福 (Franklin D. Roosevelt)",
+    "work": "演講",
+    "type": "個人成長",
+    "tags": ["克服疑慮", "信念", "夢想實現", "潛能", "積極思考"]
+  },
+  {
+    "id": "pg014",
+    "quote": "生活就像騎自行車，要想保持平衡，就必須不斷前進。(Life is like riding a bicycle. To keep your balance, you must keep moving.)",
+    "author": "阿爾伯特·愛因斯坦 (Albert Einstein)",
+    "work": "生活比喻",
+    "type": "個人成長",
+    "tags": ["不斷前進", "保持平衡", "生活哲學", "適應變化", "行動"]
+  },
+  {
+    "id": "pg015",
+    "quote": "不要等待機會，而要創造機會。(Don't wait for opportunity. Create it.)",
+    "author": "喬治·伯納·蕭 (George Bernard Shaw) (類似觀點)",
+    "work": "主動性",
+    "type": "個人成長",
+    "tags": ["創造機會", "主動性", "積極", "行動力", "掌握命運"]
+  },
+  {
+    "id": "pg016",
+    "quote": "你無法改變你不想改變的事情。(You cannot change what you are unwilling to confront.)",
+    "author": "詹姆斯·鮑德溫 (James Baldwin)",
+    "work": "作家，社會活動家",
+    "type": "個人成長",
+    "tags": ["面對現實", "改變意願", "自我覺察", "勇氣", "行動"]
+  },
+  {
+    "id": "pg017",
+    "quote": "成長的代價是痛苦的，但不成長的代價是無法估量的。(Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don’t belong.)",
+    "author": "曼迪·黑爾 (Mandy Hale)",
+    "work": "作家",
+    "type": "個人成長",
+    "tags": ["成長代價", "改變", "擺脫困境", "痛苦與收穫", "勇氣"]
+  },
+  {
+    "id": "pg018",
+    "quote": "我們是我們重複不斷的行為的總和。因此，卓越不是一種行為，而是一種習慣。(We are what we repeatedly do. Excellence, then, is not an act, but a habit.)",
+    "author": "亞里斯多德 (Aristotle) (威爾·杜蘭特轉述)",
+    "work": "哲學思想",
+    "type": "個人成長",
+    "tags": ["習慣養成", "卓越", "重複的力量", "自律", "行為塑造"]
+  },
+  {
+    "id": "pg019",
+    "quote": "如果你不喜歡某件事，就改變它；如果你無法改變它，就改變你的態度。(If you don't like something, change it. If you can't change it, change your attitude.)",
+    "author": "馬婭·安傑盧 (Maya Angelou)",
+    "work": "詩人，作家",
+    "type": "個人成長",
+    "tags": ["改變態度", "適應", "接受", "心態調整", "解決問題"]
+  },
+  {
+    "id": "pg020",
+    "quote": "生活中最大的樂趣在於完成別人認為你做不到的事。(The greatest pleasure in life is doing what people say you cannot do.)",
+    "author": "華特·白芝浩 (Walter Bagehot)",
+    "work": "英國記者、商人",
+    "type": "個人成長",
+    "tags": ["證明自己", "挑戰不可能", "成就感", "自信", "突破"]
+  },
+  {
+    "id": "pg021",
+    "quote": "黑暗無法驅逐黑暗，只有光明可以做到。仇恨無法驅逐仇恨，只有愛可以做到。(Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.)",
+    "author": "馬丁·路德·金 (Martin Luther King Jr.)",
+    "work": "民權運動領袖",
+    "type": "個人成長",
+    "tags": ["愛與光明", "化解仇恨", "和平", "非暴力", "人性光輝"]
+  },
+  {
+    "id": "pg022",
+    "quote": "你所能犯的最大錯誤，就是害怕犯錯。(The biggest mistake you can make is to be afraid of making one.)",
+    "author": "艾爾伯·哈伯德 (Elbert Hubbard)",
+    "work": "作家",
+    "type": "個人成長",
+    "tags": ["不怕犯錯", "從錯誤中學習", "勇於嘗試", "成長機會", "實驗精神"]
+  },
+  {
+    "id": "pg023",
+    "quote": "種一棵樹最好的時間是二十年前，其次是現在。(The best time to plant a tree was 20 years ago. The second best time is now.)",
+    "author": "中國諺語 (Chinese Proverb)",
+    "work": "生活智慧",
+    "type": "個人成長",
+    "tags": ["及時行動", "把握當下", "開始不晚", "未來投資", "勵志"]
+  },
+  {
+    "id": "pg024",
+    "quote": "當你真心渴望某樣東西時，整個宇宙都會聯合起來幫助你完成。(And, when you want something, all the universe conspires in helping you to achieve it.)",
+    "author": "保羅·科爾賀 (Paulo Coelho)",
+    "work": "《牧羊少年奇幻之旅》(The Alchemist)",
+    "type": "個人成長",
+    "tags": ["心想事成", "吸引力法則", "信念的力量", "渴望", "宇宙能量"]
+  },
+  {
+    "id": "pg025",
+    "quote": "真正的探索之旅不在於發現新大陸，而在於培養新視野。(The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.)",
+    "author": "馬塞爾·普魯斯特 (Marcel Proust)",
+    "work": "《追憶似水年華》作者",
+    "type": "個人成長",
+    "tags": ["新視野", "內在探索", "觀念轉變", "學習", "洞察力"]
+  },
+  {
+    "id": "pg026",
+    "quote": "我們內心的平靜，不應受外界環境的干擾。(Peace comes from within. Do not seek it without.)",
+    "author": "佛陀 (Buddha)",
+    "work": "佛教哲學",
+    "type": "個人成長",
+    "tags": ["內心平靜", "自我修養", "禪定", "不假外求", "心靈成長"]
+  },
+  {
+    "id": "pg027",
+    "quote": "無論你認為你能或不能，你都是對的。(Whether you think you can, or you think you can't – you're right.)",
+    "author": "亨利·福特 (Henry Ford)",
+    "work": "福特汽車創始人",
+    "type": "個人成長",
+    "tags": ["信念的力量", "自我效能", "心態決定一切", "心理暗示", "自信"]
+  },
+  {
+    "id": "pg028",
+    "quote": "成功不是終點，失敗也不是末日，重要的是繼續前進的勇氣。(Success is not final, failure is not fatal: It is the courage to continue that counts.)",
+    "author": "溫斯頓·邱吉爾 (Winston Churchill)",
+    "work": "英國前首相",
+    "type": "個人成長",
+    "tags": ["勇氣", "持續努力", "面對成敗", "堅韌不拔", "毅力"]
+  },
+  {
+    "id": "pg029",
+    "quote": "一個人的價值，在於他貢獻了什麼，而不在於他能得到什麼。(The value of a man resides in what he gives and not in what he is capable of receiving.)",
+    "author": "阿爾伯特·愛因斯坦 (Albert Einstein)",
+    "work": "人生價值觀",
+    "type": "個人成長",
+    "tags": ["貢獻價值", "利他主義", "人生意義", "付出", "社會影響"]
+  },
+  {
+    "id": "pg030",
+    "quote": "每天做一件令你害怕的事。(Do one thing every day that scares you.)",
+    "author": "埃莉諾·羅斯福 (Eleanor Roosevelt)",
+    "work": "美國前第一夫人",
+    "type": "個人成長",
+    "tags": ["挑戰舒適圈", "克服恐懼", "勇氣", "每日成長", "自我突破"]
+  }
+]
